@@ -1,12 +1,19 @@
 {
-	"name": "Moegi Theme",
-	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+	"name": "Moegi Dark",
+	"colors1": {
+		"editor.background": "#2a2a2a",
+		"editor.foreground": "#ffffff",
+		"activityBarBadge.foreground": "#2a2a2a",
+		"activityBarBadge.background": "#ffffff",
+		"button.background": "#000000",
+    "button.foreground": "#222",
+    "button.hoverBackground": "#000000",
+		"panel.background": "#222",
+		"panel.border": "#666",
+		"sash.hoverBorder": "#ff00ff"
 	},
-	"tokenColors": [
+	"tokenColors": "./1.tmTheme",
+	"tokenColors1": [
 		{
 			"name": "Comment",
 			"scope": [
@@ -55,7 +62,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fc9153"
 			}
 		},
 		{

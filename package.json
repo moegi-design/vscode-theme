@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Moegi Theme",
+        "label": "Moegi Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Moegi Theme-color-theme.json"
+        "path": "./themes/moegi-dark.json"
       }
     ]
   }
