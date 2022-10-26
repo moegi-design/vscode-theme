@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/moegi-design/vscode-theme"
   },
+  "publisher": "ddiu8081",
   "engines": {
     "vscode": "^1.72.0"
   },
