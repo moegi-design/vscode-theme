@@ -1,0 +1,16 @@
+
+<!-- 1. Example -->
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="example.css"?>
+<article>
+  <title>My Article</title>
+  <authors>
+    <author>Mr. Foo</author>
+    <author>Mr. Bar</author>
+  </authors>
+  <body>This is my article text.</body>
+</article>
+
+
+<!-- 2. Tests -->

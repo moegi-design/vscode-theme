@@ -1,0 +1,18 @@
+
+1. Example
+
+Adds syntax highlighting to TODO's in comments and text in Atom.
+
+
+2. Tests
+
+NOTE: Everything bellow should be highlighted:
+
+TODO
+FIXME
+CHANGED
+XXX
+IDEA
+HACK
+NOTE
+REVIEW

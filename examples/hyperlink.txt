@@ -1,0 +1,16 @@
+
+1. Example --------------------------------
+
+You can download Atom at http://atom.io.
+
+
+2. Tests --------------------------------
+
+http://github.com
+https://github.com
+http://www.github.com
+
+file://localhost/System/Library/DTDs/PropertyList.dtd
+
+www.github.com
+github.com

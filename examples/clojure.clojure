@@ -1,0 +1,10 @@
+
+; 1. Example ----------------------------------
+
+(def hello (fn [] "Hello world"))
+-> #'user/hello
+(hello)
+-> "Hello world"
+
+
+; 2. Tests ----------------------------------

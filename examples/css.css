@@ -1,0 +1,75 @@
+
+/* 1. Example -------------------------------- */
+
+html {
+  font-family: 'Lucida Grande', Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: hsl(30,100%,96%);
+}
+
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+.avatar {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+
+/* 2. Tests -------------------------------- */
+
+.values {
+  display: flex;
+  display: none !important;
+
+  content: "Hello";
+
+  width: auto;
+  width: 0;
+  width: 100px;
+  width: 100%;
+  width: 1em;
+  width: 1vw;
+
+  color: black;
+  color: #000;
+  color: hsl(0,0%,0%);
+  color: transparent;
+
+  font-size: initial;
+  font-size: inherit;
+
+  font-family: 'Lucida Grande', Verdana, sans-serif;
+
+  background: url("atom.svg") no-repeat center;
+  background: linear-gradient(to left, transparent, black) no-repeat center;
+}
+
+.valid {
+  background: blue; /* valid property + value */
+  invalid-property: invalid-color; /* invalid property + value */
+}
+
+h1,
+.class,
+#id,
+[attribute="true"],
+
+.state:hover,
+.pseudo::before,
+
+.nth:first-child,
+.nth:nth-child(even) {}
+
+@media screen and (max-width: 1000px) and (min-width: 500px) {}
+@import url('print.css');
