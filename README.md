@@ -1,3 +1,6 @@
+> **Warning**
+> This repo is working in progress! The current style is not finalized.
+
 # Moegi Theme
 
 [![Preview in vscode.dev](https://img.shields.io/visual-studio-marketplace/v/ddiu8081.moegi-theme?label=Marketplace&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
