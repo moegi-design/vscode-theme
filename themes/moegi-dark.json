@@ -1,16 +1,87 @@
 {
 	"name": "Moegi Dark",
-	"colors1": {
-		"editor.background": "#2a2a2a",
+	"colors": {
+		// https://code.visualstudio.com/api/references/theme-color
+
+		// Base Colors
+		"focusBorder": "#66b395aa",
+		"foreground": "#999999",
+		"disabledForeground": "#444444",
+		"widget.shadow": "#00000033",
+		"selection.background": "#666666",
+		"sash.hoverBorder": "#ffacc7",
+
+		// Window Border
+		"window.activeBorder": "#66b395",
+		"window.inactiveBorder": "#66b395aa",
+
+		// Text colors
+		"textCodeBlock.background": "#444444",
+		"textLink.activeForeground": "#ff8787",
+		"textLink.foreground": "#ff8787cc",
+
+		// Action colors
+		"toolbar.hoverBackground": "#444444",
+
+		// Button control
+		"button.background": "#985151aa",
+
+		// Input control
+		"input.background": "#222222",
+		"input.border": "#444444",
+
+		// Scrollbar control
+		"scrollbar.shadow": "#222222",
+
+		// Badge
+		"badge.background": "#ff8787",
+		"badge.foreground": "#222222",
+
+		// List and trees
+		"list.activeSelectionBackground": "#444444",
+
+		// Activity Bar
+		"activityBar.background": "#191919",
+		"activityBar.foreground": "#cccccc",
+		"activityBar.border": "#ffffff20",
+		"activityBarBadge.foreground": "#222222",
+		"activityBarBadge.background": "#66b395",
+		"activityBar.activeBorder": "#ff8787",
+		// "activityBar.activeBackground": "#222222",
+		"activityBar.inactiveForeground": "#444444",
+
+		// Side bar
+		"sideBar.background": "#191919",
+		"sideBar.border": "#ffffff20",
+
+		// Minimap
+		"minimap.background": "#292929",
+
+		// Editor Groups & Tabs
+		"tab.activeBorder": "#ff8787",
+
+		// Editor colors
+		"editor.background": "#222222",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.foreground": "#2a2a2a",
-		"activityBarBadge.background": "#ffffff",
-		"button.background": "#000000",
-    "button.foreground": "#222",
-    "button.hoverBackground": "#000000",
-		"panel.background": "#222",
-		"panel.border": "#666",
-		"sash.hoverBorder": "#FFB9B9"
+		"editorCursor.foreground": "#ff8787",
+		"editor.selectionBackground": "#ffffff20",
+		"editor.selectionHighlightBorder": "#ffffff40",
+		"editor.findMatchBackground": "#3AD09640",
+		"editor.findMatchHighlightBackground": "#3AD09640",
+		"editor.findMatchBorder": "#3AD096",
+
+		// Editor widget colors
+		// "editorWidget.background": "#3A1F1F", // todo
+
+		// Panel colors
+		"panel.background": "#222222",
+
+		// Status bar colors
+		"statusBar.background": "#222222",
+		"statusBar.foreground": "#999999",
+		"statusBar.border": "#ffffff20",
+		"statusBar.debuggingBackground": "#66b395",
+		"statusBar.debuggingForeground": "#000000",
 	},
 	"tokenColors": [
 		{
