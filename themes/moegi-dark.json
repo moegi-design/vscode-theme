@@ -43,7 +43,7 @@
 		// Activity Bar
 		"activityBar.background": "#191919",
 		"activityBar.foreground": "#cccccc",
-		"activityBar.border": "#ffffff20",
+		"activityBar.border": "#ffffff1a",
 		"activityBarBadge.foreground": "#222222",
 		"activityBarBadge.background": "#66b395",
 		"activityBar.activeBorder": "#ff8787",
@@ -52,7 +52,7 @@
 
 		// Side bar
 		"sideBar.background": "#191919",
-		"sideBar.border": "#ffffff20",
+		"sideBar.border": "#ffffff1a",
 
 		// Minimap
 		"minimap.background": "#292929",
@@ -64,7 +64,7 @@
 		"editor.background": "#222222",
 		"editor.foreground": "#ffffff",
 		"editorCursor.foreground": "#ff8787",
-		"editor.selectionBackground": "#ffffff20",
+		"editor.selectionBackground": "#ffffff1a",
 		"editor.selectionHighlightBorder": "#ffffff40",
 		"editor.findMatchBackground": "#3AD09640",
 		"editor.findMatchHighlightBackground": "#3AD09640",
@@ -79,7 +79,7 @@
 		// Status bar colors
 		"statusBar.background": "#222222",
 		"statusBar.foreground": "#999999",
-		"statusBar.border": "#ffffff20",
+		"statusBar.border": "#ffffff1a",
 		"statusBar.debuggingBackground": "#66b395",
 		"statusBar.debuggingForeground": "#000000",
 	},
