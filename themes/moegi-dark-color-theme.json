@@ -1,5 +1,7 @@
 {
 	"name": "Moegi Dark",
+	"type": "dark",
+  "semanticHighlighting": true,
 	"colors": {
 		// https://code.visualstudio.com/api/references/theme-color
 
