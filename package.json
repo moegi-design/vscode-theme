@@ -19,7 +19,7 @@
       {
         "label": "Moegi Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/moegi-dark.json"
+        "path": "./themes/moegi-dark-color-theme.json"
       }
     ]
   }

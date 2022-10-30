@@ -6,12 +6,12 @@
 		// https://code.visualstudio.com/api/references/theme-color
 
 		// Base Colors
-		"focusBorder": "#66b395aa",
+		"focusBorder": "#66b3957f",
 		"foreground": "#999999",
 		"disabledForeground": "#444444",
 		"widget.shadow": "#00000033",
 		"selection.background": "#666666",
-		"sash.hoverBorder": "#ffacc7",
+		"sash.hoverBorder": "#ff8787",
 
 		// Window Border
 		"window.activeBorder": "#66b395",
@@ -50,7 +50,7 @@
 		"activityBarBadge.background": "#66b395",
 		"activityBar.activeBorder": "#ff8787",
 		// "activityBar.activeBackground": "#222222",
-		"activityBar.inactiveForeground": "#444444",
+		// "activityBar.inactiveForeground": "#444444",
 
 		// Side bar
 		"sideBar.background": "#191919",
@@ -70,7 +70,7 @@
 		"editor.selectionHighlightBorder": "#ffffff40",
 		"editor.findMatchBackground": "#3AD09640",
 		"editor.findMatchHighlightBackground": "#3AD09640",
-		"editor.findMatchBorder": "#3AD096",
+		"editor.findMatchBorder": "#66b395",
 
 		// Editor widget colors
 		// "editorWidget.background": "#3A1F1F", // todo
@@ -84,6 +84,9 @@
 		"statusBar.border": "#ffffff1a",
 		"statusBar.debuggingBackground": "#66b395",
 		"statusBar.debuggingForeground": "#000000",
+		"statusBar.noFolderBackground": "#222222",
+		"statusBar.noFolderForeground": "#999999",
+		"statusBar.focusBorder": "#00000000",
 	},
 	"tokenColors": [
 		{
