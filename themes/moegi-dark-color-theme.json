@@ -96,8 +96,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#758575"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -107,7 +106,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#bd976a"
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -117,7 +116,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#bf4d56"
 			}
 		},
 		{
@@ -128,7 +127,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#4d9375"
+				"foreground": "#fff879"
 			}
 		},
 		{
@@ -221,7 +220,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#c98a7d"
+				"foreground": "#a88be9"
 			}
 		},
 		{
