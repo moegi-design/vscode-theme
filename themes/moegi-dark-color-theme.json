@@ -60,7 +60,11 @@
 		"minimap.background": "#292929",
 
 		// Editor Groups & Tabs
+		"editorGroupHeader.tabsBackground": "#191919",
+		"editorGroupHeader.tabsBorder": "#ffffff1a",
+		"tab.activeBackground": "#ffffff1a",
 		"tab.activeBorder": "#ff8787",
+		"tab.inactiveBackground": "#191919",
 
 		// Editor colors
 		"editor.background": "#222222",
@@ -71,6 +75,19 @@
 		"editor.findMatchBackground": "#3AD09640",
 		"editor.findMatchHighlightBackground": "#3AD09640",
 		"editor.findMatchBorder": "#66b395",
+		
+		/// Bracket pair colorization
+		"editorBracketHighlight.foreground1": "#ff8787",
+		"editorBracketHighlight.foreground2": "#66b395",
+		"editorBracketHighlight.foreground3": "#e7d38f",
+		"editorBracketHighlight.foreground4": "#6097eb",
+		"editorBracketHighlight.foreground5": "#c776dc",
+		"editorBracketHighlight.foreground6": "#66cece",
+
+		/// Errors and warnings
+		"editorError.foreground": "#ff8787",
+		"editorWarning.foreground": "#e7d38f",
+		"editorInfo.foreground": "#6097eb",
 
 		// Editor widget colors
 		// "editorWidget.background": "#3A1F1F", // todo
