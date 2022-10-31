@@ -87,6 +87,24 @@
 		"statusBar.noFolderBackground": "#222222",
 		"statusBar.noFolderForeground": "#999999",
 		"statusBar.focusBorder": "#00000000",
+		"statusBarItem.prominentBackground": "#66b395",
+		"statusBarItem.prominentForeground": "#000000",
+		"statusBarItem.remoteBackground": "#a0c1f3",
+		"statusBarItem.remoteForeground": "#000000",
+		"statusBarItem.errorBackground": "#ff8787",
+		"statusBarItem.errorForeground": "#000000",
+		"statusBarItem.warningBackground": "#d8b544",
+		"statusBarItem.warningForeground": "#000000",
+
+		// Diff editor colors
+		"diffEditor.insertedTextBackground": "#66b3953f",
+		"diffEditor.insertedTextBorder": "#66b3953f",
+		"diffEditor.removedTextBackground": "#ff87873f",
+		"diffEditor.removedTextBorder": "#ff87873f",
+		"diffEditor.border": "#ffffff1a",
+		"diffEditor.diagonalFill": "#ffffff1a",
+		"diffEditor.insertedLineBackground": "#66b39530",
+		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Integrated Terminal colors
 		"terminal.background": "#222222",
