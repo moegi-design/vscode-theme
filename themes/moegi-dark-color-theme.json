@@ -87,6 +87,26 @@
 		"statusBar.noFolderBackground": "#222222",
 		"statusBar.noFolderForeground": "#999999",
 		"statusBar.focusBorder": "#00000000",
+
+		// Integrated Terminal colors
+		"terminal.background": "#222222",
+		"terminal.ansiBlack": "#1e1e1e",
+		"terminal.ansiBlue": "#6097eb",
+		"terminal.ansiBrightBlack": "#8f8f8f",
+		"terminal.ansiBrightBlue": "#a0c1f3",
+		"terminal.ansiBrightCyan": "#a3e2e2",
+		"terminal.ansiBrightGreen": "#a3d1bf",
+		"terminal.ansiBrightMagenta": "#ddadea",
+		"terminal.ansiBrightRed": "#ffb7b7",
+		"terminal.ansiBrightWhite": "#f5f5f5",
+		"terminal.ansiBrightYellow": "#e7d38f",
+		"terminal.ansiCyan": "#66cece",
+		"terminal.ansiGreen": "#66b395",
+		"terminal.ansiMagenta": "#c776dc",
+		"terminal.ansiRed": "#ff8787",
+		"terminal.ansiWhite": "#eeeeee",
+		"terminal.ansiYellow": "#d8b544",
+		"terminal.selectionBackground": "#444444",
 	},
 	"tokenColors": [
 		{
