@@ -17,7 +17,7 @@ export const palette = {
     comment: '#000000',
   },
 
-  black: '#1e232b',
+  black: '#222222',
   red: '#ff8787',
   green: '#66b395',
   yellow: '#e7d38f',
