@@ -89,6 +89,16 @@
 		"editorWarning.foreground": "#e7d38f",
 		"editorInfo.foreground": "#6097eb",
 
+		// Diff editor colors
+		"diffEditor.insertedTextBackground": "#66b3953f",
+		"diffEditor.insertedTextBorder": "#66b3953f",
+		"diffEditor.removedTextBackground": "#ff87873f",
+		"diffEditor.removedTextBorder": "#ff87873f",
+		"diffEditor.border": "#ffffff1a",
+		"diffEditor.diagonalFill": "#ffffff1a",
+		"diffEditor.insertedLineBackground": "#66b39530",
+		"diffEditor.removedLineBackground": "#ff878730",
+
 		// Editor widget colors
 		// "editorWidget.background": "#3A1F1F", // todo
 
@@ -112,16 +122,6 @@
 		"statusBarItem.errorForeground": "#000000",
 		"statusBarItem.warningBackground": "#d8b544",
 		"statusBarItem.warningForeground": "#000000",
-
-		// Diff editor colors
-		"diffEditor.insertedTextBackground": "#66b3953f",
-		"diffEditor.insertedTextBorder": "#66b3953f",
-		"diffEditor.removedTextBackground": "#ff87873f",
-		"diffEditor.removedTextBorder": "#ff87873f",
-		"diffEditor.border": "#ffffff1a",
-		"diffEditor.diagonalFill": "#ffffff1a",
-		"diffEditor.insertedLineBackground": "#66b39530",
-		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Peek view colors
 		"peekView.border": "#ff87876f",
