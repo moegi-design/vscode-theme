@@ -6,7 +6,7 @@
 		// https://code.visualstudio.com/api/references/theme-color
 
 		// Base Colors
-		"focusBorder": "#66b3957f",
+		"focusBorder": "#444444",
 		"foreground": "#999999",
 		"disabledForeground": "#444444",
 		"widget.shadow": "#00000033",
@@ -26,7 +26,8 @@
 		"toolbar.hoverBackground": "#444444",
 
 		// Button control
-		"button.background": "#985151aa",
+		"button.background": "#ff87877f",
+		"button.hoverBackground": "#ff8787aa",
 
 		// Input control
 		"input.background": "#222222",
@@ -119,7 +120,6 @@
 		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Editor widget colors
-		// "editorWidget.background": "#3A1F1F",
 		"editorStickyScrollHover.background": "#333333",
 
 		// Peek view colors
