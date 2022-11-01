@@ -30,7 +30,7 @@
 
 		// Input control
 		"input.background": "#222222",
-		"input.border": "#444444",
+		"input.border": "#ffffff1a",
 
 		// Scrollbar control
 		"scrollbar.shadow": "#222222",
@@ -129,7 +129,7 @@
 		"statusBar.focusBorder": "#00000000",
 		"statusBarItem.prominentBackground": "#66b395",
 		"statusBarItem.prominentForeground": "#000000",
-		"statusBarItem.remoteBackground": "#a0c1f3",
+		"statusBarItem.remoteBackground": "#66b395",
 		"statusBarItem.remoteForeground": "#000000",
 		"statusBarItem.errorBackground": "#ff8787",
 		"statusBarItem.errorForeground": "#000000",
