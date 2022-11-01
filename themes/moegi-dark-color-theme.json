@@ -162,6 +162,9 @@
 		"terminal.ansiYellow": "#d8b544",
 		"terminal.selectionBackground": "#444444",
 		"terminal.tab.activeBorder": "#66b395",
+
+		// Breadcrumbs colors
+		"breadcrumb.foreground": "#666666",
 	},
 	"tokenColors": [
 		{
