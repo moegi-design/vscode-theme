@@ -89,6 +89,11 @@
 		"editorWarning.foreground": "#e7d38f",
 		"editorInfo.foreground": "#6097eb",
 
+		/// The gutter contains the glyph margins and the line numbers
+		"editorGutter.modifiedBackground": "#6097eb",
+		"editorGutter.addedBackground": "#66b395",
+		"editorGutter.deletedBackground": "#ff8787",
+
 		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#66b3953f",
 		"diffEditor.insertedTextBorder": "#66b3953f",
@@ -100,7 +105,17 @@
 		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Editor widget colors
-		// "editorWidget.background": "#3A1F1F", // todo
+		// "editorWidget.background": "#3A1F1F",
+
+		// Peek view colors
+		"peekView.border": "#ff87876f",
+		"peekViewEditor.background": "#333333",
+		"peekViewEditor.matchHighlightBackground": "#ff87873f",
+		"peekViewEditor.matchHighlightBorder": "#ff8787",
+		"peekViewResult.matchHighlightBackground": "#ff87873f",
+		"peekViewResult.selectionBackground": "#66b3953f",
+		// "peekViewResult.selectionForeground": "#",
+		"peekViewTitle.background": "#ff878730",
 
 		// Panel colors
 		"panel.background": "#191919",
@@ -122,16 +137,6 @@
 		"statusBarItem.errorForeground": "#000000",
 		"statusBarItem.warningBackground": "#d8b544",
 		"statusBarItem.warningForeground": "#000000",
-
-		// Peek view colors
-		"peekView.border": "#ff87876f",
-		"peekViewEditor.background": "#333333",
-		"peekViewEditor.matchHighlightBackground": "#ff87873f",
-		"peekViewEditor.matchHighlightBorder": "#ff8787",
-		"peekViewResult.matchHighlightBackground": "#ff87873f",
-		"peekViewResult.selectionBackground": "#66b3953f",
-		// "peekViewResult.selectionForeground": "#",
-		"peekViewTitle.background": "#ff878730",
 
 		// Integrated Terminal colors
 		"terminal.background": "#191919",
