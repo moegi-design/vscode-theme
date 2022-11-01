@@ -31,6 +31,8 @@
 		// Input control
 		"input.background": "#222222",
 		"input.border": "#ffffff1a",
+		"inputOption.activeBackground": "#444444",
+		"inputOption.activeForeground": "#ffffff",
 
 		// Scrollbar control
 		"scrollbar.shadow": "#222222",
@@ -38,6 +40,9 @@
 		// Badge
 		"badge.background": "#ff8787",
 		"badge.foreground": "#222222",
+
+		// Progress bar
+		"progressBar.background": "#ff8787",
 
 		// List and trees
 		"list.activeSelectionBackground": "#444444",
@@ -72,8 +77,8 @@
 		"editorCursor.foreground": "#ff8787",
 		"editor.selectionBackground": "#ffffff1f",
 		"editor.selectionHighlightBorder": "#ffffff40",
-		"editor.findMatchBackground": "#3AD09640",
-		"editor.findMatchHighlightBackground": "#3AD09640",
+		"editor.findMatchBackground": "#66b39540",
+		"editor.findMatchHighlightBackground": "#66b39540",
 		"editor.findMatchBorder": "#66b395",
 		
 		/// Bracket pair colorization
@@ -155,6 +160,7 @@
 		"terminal.ansiWhite": "#eeeeee",
 		"terminal.ansiYellow": "#d8b544",
 		"terminal.selectionBackground": "#444444",
+		"terminal.tab.activeBorder": "#66b395",
 	},
 	"tokenColors": [
 		{
