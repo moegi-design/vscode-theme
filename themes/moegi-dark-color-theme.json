@@ -125,9 +125,9 @@
 		// Peek view colors
 		"peekView.border": "#666666",
 		"peekViewEditor.background": "#333333",
-		"peekViewEditor.matchHighlightBackground": "#ff87873f",
-		"peekViewEditor.matchHighlightBorder": "#ff8787",
-		"peekViewResult.matchHighlightBackground": "#ff87873f",
+		"peekViewEditor.matchHighlightBackground": "#66b3953f",
+		"peekViewEditor.matchHighlightBorder": "#66b395",
+		"peekViewResult.matchHighlightBackground": "#66b3953f",
 		"peekViewResult.selectionBackground": "#66b3953f",
 		// "peekViewResult.selectionForeground": "#",
 		"peekViewTitle.background": "#333333",
