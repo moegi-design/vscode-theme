@@ -35,7 +35,7 @@
 		"inputOption.activeForeground": "#ffffff",
 
 		// Scrollbar control
-		"scrollbar.shadow": "#222222",
+		"scrollbar.shadow": "#191919",
 
 		// Badge
 		"badge.background": "#ff8787",
@@ -109,6 +109,7 @@
 
 		// Editor widget colors
 		// "editorWidget.background": "#3A1F1F",
+		"editorStickyScrollHover.background": "#333333",
 
 		// Peek view colors
 		"peekView.border": "#666666",
