@@ -45,7 +45,16 @@
 		"progressBar.background": "#ff8787",
 
 		// List and trees
-		"list.activeSelectionBackground": "#444444",
+		"list.activeSelectionBackground": "#222222",
+		"list.dropBackground": "#ffffff1a",
+		"list.focusBackground": "#ffffff1a",
+		"list.focusHighlightForeground": "#66b395",
+		"list.focusOutline": "#ffffff1a",
+		"list.highlightForeground": "#66b395",
+		"list.hoverBackground":"#222222",
+		"list.inactiveSelectionBackground":"#222222",
+		"list.filterMatchBackground":"#66b39530",
+		"list.filterMatchBorder": "#66b395",
 
 		// Activity Bar
 		"activityBar.background": "#191919",
@@ -60,6 +69,8 @@
 		// Side bar
 		"sideBar.background": "#191919",
 		"sideBar.border": "#ffffff1a",
+		"sideBarSectionHeader.background":"#222222",
+		"sideBarSectionHeader.border": "#ffffff1a",
 
 		// Minimap
 		"minimap.background": "#292929",
