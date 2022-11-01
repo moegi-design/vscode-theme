@@ -70,7 +70,7 @@
 		"editor.background": "#222222",
 		"editor.foreground": "#ffffff",
 		"editorCursor.foreground": "#ff8787",
-		"editor.selectionBackground": "#ffffff40",
+		"editor.selectionBackground": "#ffffff1f",
 		"editor.selectionHighlightBorder": "#ffffff40",
 		"editor.findMatchBackground": "#3AD09640",
 		"editor.findMatchHighlightBackground": "#3AD09640",
@@ -95,10 +95,8 @@
 		"editorGutter.deletedBackground": "#ff8787",
 
 		// Diff editor colors
-		"diffEditor.insertedTextBackground": "#66b3953f",
-		"diffEditor.insertedTextBorder": "#66b3953f",
-		"diffEditor.removedTextBackground": "#ff87873f",
-		"diffEditor.removedTextBorder": "#ff87873f",
+		"diffEditor.insertedTextBackground": "#66b39530",
+		"diffEditor.removedTextBackground": "#ff878730",
 		"diffEditor.border": "#ffffff1a",
 		"diffEditor.diagonalFill": "#ffffff1a",
 		"diffEditor.insertedLineBackground": "#66b39530",
@@ -166,7 +164,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#666666"
+				"foreground": "#777777"
 			}
 		},
 		{
