@@ -93,7 +93,7 @@
 		// "editorWidget.background": "#3A1F1F", // todo
 
 		// Panel colors
-		"panel.background": "#222222",
+		"panel.background": "#191919",
 
 		// Status bar colors
 		"statusBar.background": "#222222",
@@ -134,7 +134,7 @@
 		"peekViewTitle.background": "#ff87873f",
 
 		// Integrated Terminal colors
-		"terminal.background": "#222222",
+		"terminal.background": "#191919",
 		"terminal.ansiBlack": "#1e1e1e",
 		"terminal.ansiBlue": "#6097eb",
 		"terminal.ansiBrightBlack": "#8f8f8f",
