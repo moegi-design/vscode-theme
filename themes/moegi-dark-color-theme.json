@@ -10,7 +10,7 @@
 		"foreground": "#999999",
 		"disabledForeground": "#444444",
 		"widget.shadow": "#00000033",
-		"selection.background": "#666666",
+		"selection.background": "#444444",
 		"sash.hoverBorder": "#ff8787",
 
 		// Window Border
@@ -86,10 +86,12 @@
 		"editor.foreground": "#ffffff",
 		"editorCursor.foreground": "#ff8787",
 		"editor.selectionBackground": "#ffffff1f",
-		"editor.selectionHighlightBorder": "#ffffff40",
-		"editor.findMatchBackground": "#66b39540",
-		"editor.findMatchHighlightBackground": "#66b39540",
+		"editor.selectionHighlightBorder": "#ffffff3f",
+		"editor.findMatchBackground": "#66b3953f",
+		"editor.findMatchHighlightBackground": "#66b3951f",
+		"editor.findMatchHighlightBorder": "#66b395",
 		"editor.findMatchBorder": "#66b395",
+		"searchEditor.findMatchBorder":"#66b395",
 		
 		/// Bracket pair colorization
 		"editorBracketHighlight.foreground1": "#ff8787",
