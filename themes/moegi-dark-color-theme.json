@@ -29,6 +29,10 @@
 		"button.background": "#ff87877f",
 		"button.hoverBackground": "#ff8787aa",
 
+		// Dropdown control
+		"dropdown.background": "#191919",
+		"dropdown.border": "#ffffff1a",
+
 		// Input control
 		"input.background": "#222222",
 		"input.border": "#ffffff1a",
@@ -72,6 +76,9 @@
 		"sideBarSectionHeader.border": "#ffffff1a",
 
 		// Minimap
+		"minimap.findMatchHighlight":"#66b3959f",
+		"minimap.selectionHighlight":"#6097eb9f",
+		"minimap.errorHighlight": "#ff8787",
 		"minimap.background": "#292929",
 
 		// Editor Groups & Tabs
@@ -92,6 +99,7 @@
 		"editor.findMatchHighlightBorder": "#66b395",
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder":"#66b395",
+		"editorLink.activeForeground":"#ff8787",
 		
 		/// Bracket pair colorization
 		"editorBracketHighlight.foreground1": "#ff8787",
@@ -120,6 +128,8 @@
 		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Editor widget colors
+		"editorSuggestWidget.background": "#202020",
+		"editorSuggestWidget.selectedBackground": "#333333",
 		"editorStickyScrollHover.background": "#333333",
 
 		// Peek view colors
@@ -157,6 +167,18 @@
 		"statusBarItem.errorForeground": "#000000",
 		"statusBarItem.warningBackground": "#d8b544",
 		"statusBarItem.warningForeground": "#000000",
+
+		// Menu bar colors
+		"menu.foreground": "#cccccc",
+		"menu.background": "#191919",
+
+		// Banner colors
+		"banner.foreground": "#ffffff",
+		"banner.background": "#444444",
+
+		// Quick picker colors
+		"pickerGroup.foreground":"#66b395",
+		"quickInput.background":"#191919",
 
 		// Integrated Terminal colors
 		"terminal.background": "#191919",
