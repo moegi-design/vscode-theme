@@ -98,7 +98,7 @@
     "editor.wordHighlightStrongBackground": "#ffffff1f",
 		"editor.findMatchBackground": "#66b3953f",
 		"editor.findMatchHighlightBackground": "#66b3951f",
-		"editor.findMatchHighlightBorder": "#66b395",
+		"editor.findMatchHighlightBorder": "#66b3954f",
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder":"#66b395",
 		"editor.lineHighlightBackground":"#ffffff10",
