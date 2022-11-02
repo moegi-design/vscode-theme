@@ -100,6 +100,9 @@
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder":"#66b395",
 		"editorLink.activeForeground":"#ff8787",
+
+		/// Codelens
+		"editorCodeLens.foreground": "#666666",
 		
 		/// Bracket pair colorization
 		"editorBracketHighlight.foreground1": "#ff8787",
