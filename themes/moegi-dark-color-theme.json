@@ -1,7 +1,7 @@
 {
 	"name": "Moegi Dark",
 	"type": "dark",
-  "semanticHighlighting": true,
+	"semanticHighlighting": true,
 	"colors": {
 		// https://code.visualstudio.com/api/references/theme-color
 
@@ -94,12 +94,18 @@
 		"editorCursor.foreground": "#ff8787",
 		"editor.selectionBackground": "#ffffff1f",
 		"editor.selectionHighlightBorder": "#ffffff3f",
+		"editor.wordHighlightBackground": "#ffffff1f",
+    "editor.wordHighlightStrongBackground": "#ffffff1f",
 		"editor.findMatchBackground": "#66b3953f",
 		"editor.findMatchHighlightBackground": "#66b3951f",
 		"editor.findMatchHighlightBorder": "#66b395",
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder":"#66b395",
+		"editor.lineHighlightBackground":"#ffffff10",
 		"editorLink.activeForeground":"#ff8787",
+		"editorWhitespace.foreground":"#ffffff1a",
+		"editorIndentGuide.background": "#ffffff10",
+		"editorIndentGuide.activeBackground": "#ffffff3f",
 
 		/// Codelens
 		"editorCodeLens.foreground": "#666666",
