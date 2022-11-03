@@ -221,7 +221,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -231,7 +231,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#66b395"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#bf4d56"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#fff879"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ffacc7"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -282,7 +282,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -295,7 +295,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -314,7 +314,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ffacc7"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -345,7 +345,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a88be9"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -370,7 +370,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -384,7 +384,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -395,7 +395,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -415,7 +415,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -425,7 +425,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -445,7 +445,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -472,7 +472,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -481,7 +481,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -499,7 +499,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -530,7 +530,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#999"
 			}
 		},
 		// {
