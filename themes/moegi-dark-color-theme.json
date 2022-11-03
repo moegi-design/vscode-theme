@@ -6,7 +6,7 @@
 		// https://code.visualstudio.com/api/references/theme-color
 
 		// Base Colors
-		"focusBorder": "#444444",
+		"focusBorder": "#ffffff3f",
 		"foreground": "#999999",
 		"disabledForeground": "#444444",
 		"widget.shadow": "#00000033",
@@ -34,8 +34,8 @@
 		"dropdown.border": "#ffffff1a",
 
 		// Input control
-		"input.background": "#222222",
-		"input.border": "#ffffff1a",
+		"input.background": "#ffffff10",
+		"input.border": "#ffffff10",
 		"inputOption.activeBackground": "#444444",
 		"inputOption.activeForeground": "#ffffff",
 
