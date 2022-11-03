@@ -106,6 +106,8 @@
 		"editorWhitespace.foreground":"#ffffff1a",
 		"editorIndentGuide.background": "#ffffff10",
 		"editorIndentGuide.activeBackground": "#ffffff3f",
+		"editorInlayHint.background": "#ffffff10",
+		"editorInlayHint.foreground": "#ffffff5f",
 
 		/// Codelens
 		"editorCodeLens.foreground": "#666666",
@@ -221,7 +223,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#ffffff2f"
 			}
 		},
 		{
