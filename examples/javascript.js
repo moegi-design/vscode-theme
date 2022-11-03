@@ -7,10 +7,11 @@ function CarTypes(name) {
   if (name == "Honda") {
     return name;
   } else {
-    return "Sorry, we don't sell " + name + ".";
+    return "Sorry, we don't \n sell " + name + ".";
   }
 }
 
+const regex = /^hell\/o/;
 var car = { myCar: "Saturn", getCar: CarTypes("Honda"), special: Sales };
 
 console.log(car.special);

@@ -221,7 +221,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#505050"
 			}
 		},
 		{
@@ -231,7 +231,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#dddddd"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#d4a7f4"
 			}
 		},
 		{
@@ -264,14 +264,12 @@
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#f29aa4"
 			}
 		},
 		{
@@ -282,7 +280,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#e2c35e"
 			}
 		},
 		{
@@ -295,7 +293,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66bddf"
 			}
 		},
 		{
@@ -304,7 +302,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#f2a373"
 			}
 		},
 		{
@@ -314,7 +312,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#f29aa4"
 			}
 		},
 		{
@@ -330,7 +328,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#e2c35e"
 			}
 		},
 		{
@@ -345,7 +343,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -358,19 +356,19 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66bddf"
 			}
 		},
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#d4a7f4"
 			}
 		},
 		{
@@ -384,7 +382,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -405,7 +403,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#999"
+				"foreground": "#f29aa4"
 			}
 		},
 		{
@@ -434,7 +432,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#f29aa4"
 			}
 		},
 		{
@@ -454,7 +452,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66bddf"
 			}
 		},
 		{
@@ -499,7 +497,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#34f295"
 			}
 		},
 		{
@@ -508,7 +506,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66bddf"
 			}
 		},
 		{
@@ -526,7 +524,8 @@
 			"name": "Decorators",
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
+				"tag.decorator.js punctuation.definition.tag.js",
+				"punctuation.definition.tag"
 			],
 			"settings": {
 				"fontStyle": "italic",

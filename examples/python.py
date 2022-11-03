@@ -1,6 +1,8 @@
 
 # 1. Example ------------------------
 
+@requires_authorization(roles=["ADMIN"])
+
 import unittest
 def median(pool):
     copy = sorted(pool)

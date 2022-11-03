@@ -1,16 +1,20 @@
 
 // Example -----------------------------
 
+import a from 'b';
+
 const myGreeter = new Greeter("hello, world");
 myGreeter.greeting = "howdy";
 myGreeter.showGreeting();
+a.foo()
 
 class SpecialGreeter extends Greeter {
     constructor() {
-        super("Very special greetings");
+        super("Very special\n greetings");
     }
 }
 
+const regex = /^hell\/o/;
 
 // Tests -----------------------------
 
