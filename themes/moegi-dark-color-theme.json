@@ -107,7 +107,7 @@
 		"editorIndentGuide.background": "#ffffff10",
 		"editorIndentGuide.activeBackground": "#ffffff3f",
 		"editorInlayHint.background": "#ffffff10",
-		"editorInlayHint.foreground": "#ffffff5f",
+		"editorInlayHint.foreground": "#ffffff6f",
 
 		/// Codelens
 		"editorCodeLens.foreground": "#666666",
@@ -237,6 +237,15 @@
 			}
 		},
 		{
+			"name": "Properties",
+			"scope": [
+				"variable.other.property.ts",
+			],
+			"settings": {
+				"foreground": "#f2a373"
+			}
+		},
+		{
 			"name": "Invalid",
 			"scope": [
 				"invalid",
@@ -254,7 +263,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#d4a7f4"
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -268,10 +277,12 @@
 				"punctuation.definition.tag.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"punctuation.accessor",
 			],
 			"settings": {
-				"foreground": "#f29aa4"
+				"fontStyle": "bold",
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -295,7 +306,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#66bddf"
+				"foreground": "#83d9fb"
 			}
 		},
 		{
@@ -351,23 +362,22 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
-				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types",
 			],
 			"settings": {
-				"foreground": "#66bddf"
+				"foreground": "#d4a7f4"
 			}
 		},
 		{
 			"name": "Entity Types",
 			"scope": [
 				"support.type",
+				"support.type.sys-types",
+				"entity.name",
 			],
 			"settings": {
 				"foreground": "#d4a7f4"
@@ -454,7 +464,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#66bddf"
+				"foreground": "#83d9fb"
 			}
 		},
 		{
@@ -508,7 +518,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#66bddf"
+				"foreground": "#83d9fb"
 			}
 		},
 		{
@@ -527,7 +537,9 @@
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
 				"tag.decorator.js punctuation.definition.tag.js",
-				"punctuation.definition.tag"
+				"punctuation.definition.tag",
+				"punctuation.accessor.optional",
+				"punctuation.separator.comma"
 			],
 			"settings": {
 				"fontStyle": "italic",
