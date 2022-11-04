@@ -544,7 +544,6 @@
 				"punctuation.separator",
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#7f7f7f"
 			}
 		},
