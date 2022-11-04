@@ -654,7 +654,7 @@
 				"text.html.markdown markup.inline.raw"
 			],
 			"settings": {
-				"foreground": "#ff9cdb"
+				"foreground": "#f0cda2"
 			}
 		},
 		{
@@ -718,13 +718,24 @@
 			}
 		},
 		{
+			"name": "Markup - Strikethrough",
+			"scope": [
+				"markup.strikethrough",
+				"markup.strikethrough string",
+			],
+			"settings": {
+				"fontStyle": "bold strikethrough",
+				"foreground": "#999999"
+			}
+		},
+		{
 			"name": "Markup - Underline",
 			"scope": [
 				"markup.underline"
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#f0cda2"
+				"foreground": "#ff8787"
 			}
 		},
 		{
@@ -762,7 +773,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#f0cda2cc"
+				"foreground": "#ff8787cc"
 			}
 		},
 		{
@@ -771,7 +782,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#f0cda2"
+				"foreground": "#ff8787"
 			}
 		},
 		{
@@ -781,7 +792,7 @@
 				"markup.fenced_code.block",
 			],
 			"settings": {
-				"foreground": "#ff9cdb"
+				"foreground": "#f0cda2"
 			}
 		},
 		// {
