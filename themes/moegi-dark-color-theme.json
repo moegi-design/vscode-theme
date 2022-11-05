@@ -13,10 +13,6 @@
 		"selection.background": "#444444",
 		"sash.hoverBorder": "#ff8787",
 
-		// Window Border
-		"window.activeBorder": "#66b395",
-		"window.inactiveBorder": "#66b395aa",
-
 		// Text colors
 		"textCodeBlock.background": "#444444",
 		"textLink.activeForeground": "#ff8787",
