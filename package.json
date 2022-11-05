@@ -1,8 +1,9 @@
 {
   "name": "moegi-theme",
   "displayName": "Moegi Theme",
-  "description": "Elegant Theme for VS Code",
+  "description": "An elegant theme for VS Code",
   "version": "0.0.13",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/moegi-design/vscode-theme"
@@ -13,6 +14,12 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "moegi",
+    "light",
+    "dark"
   ],
   "contributes": {
     "themes": [
