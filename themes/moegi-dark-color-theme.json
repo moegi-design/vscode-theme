@@ -122,9 +122,9 @@
 		"editorInfo.foreground": "#7098d4",
 
 		/// The gutter contains the glyph margins and the line numbers
-		"editorGutter.modifiedBackground": "#7098d4",
-		"editorGutter.addedBackground": "#66b395",
-		"editorGutter.deletedBackground": "#ff8787",
+		"editorGutter.modifiedBackground": "#7098d4af",
+		"editorGutter.addedBackground": "#66b395af",
+		"editorGutter.deletedBackground": "#ff8787af",
 
 		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#66b39530",
@@ -223,10 +223,11 @@
 			}
 		},
 		{
-			"name": "Variables",
+			"name": "Variables, Function Argument",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"variable.parameter",
 			],
 			"settings": {
 				"foreground": "#f0cda2"
@@ -325,18 +326,17 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Number, Constant, Tag Attribute, Embedded",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#34f295"
+				"foreground": "#c3e88d"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#34f295"
+				"foreground": "#c3e88d"
 			}
 		},
 		{
@@ -831,7 +831,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#c3e88d"
 			}
 		},
 		{
@@ -841,7 +841,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#C3E88D"
+				"foreground": "#c3e88d"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#c3e88d"
 			}
 		}
 	]
