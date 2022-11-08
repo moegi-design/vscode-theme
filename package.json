@@ -2,7 +2,7 @@
   "name": "moegi-theme",
   "displayName": "Moegi Theme",
   "description": "An elegant theme for VS Code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "publisher": "ddiu8081",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.64.0"
   },
   "categories": [
     "Themes"
