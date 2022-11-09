@@ -5,6 +5,24 @@
 
 ![Moegi Dark](./images/screenshot.png)
 
+> Font: [Zed Mono](https://github.com/zed-industries/zed-fonts)
+
+## Features
+
+- NO flat ui
+- MacOS native title bar adaptation
+- Accent colors in appropriate areas
+- Optimized for text selection and search
+
+## Themes
+
+| Theme | Preview | Description |
+| --- | --- | --- |
+| Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A dark theme with a touch of pink. |
+| Moegi Light |  | // TODO |
+| Moegi Dark Monochrome |  | // TODO |
+| Moegi Light Monochrome |  | // TODO |
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code.
