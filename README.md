@@ -29,6 +29,55 @@
 2. Search for `Moegi Theme`.
 3. Click **Install** to install it.
 
+## Customization
+
+You can customize the theme by adding snippets to `settings.json` (`Command Palette` -> `Preferences: Open Settings (JSON)`)
+
+> For more information, please refer to [Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+
+### Enable Italics on Comments
+
+```json
+"editor.tokenColorCustomizations": {
+  "[Moegi Dark]": {
+    "textMateRules": [
+      {
+        "name": "Comment Italics",
+        "scope": [
+          "comment",
+          "punctuation.definition.comment"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}
+```
+
+### Enable Bold on Keywords
+
+```json
+"editor.tokenColorCustomizations": {
+  "[Moegi Dark]": {
+    "textMateRules": [
+      {
+        "name": "Keyword Bold",
+        "scope": [
+          "keyword",
+          "storage.type",
+          "storage.modifier",
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}
+```
+
 ## Credits
 
 - Language examples are from [atom/language-examples](https://github.com/atom/language-examples).
