@@ -175,9 +175,18 @@
 		"statusBarItem.warningBackground": "#d8b544",
 		"statusBarItem.warningForeground": "#000000",
 
+		// Title bar colors
+		"titleBar.activeBackground": "#191919",
+		"titleBar.inactiveBackground": "#222222",
+		"titleBar.border": "#ffffff10",
+
 		// Menu bar colors
 		"menu.foreground": "#cccccc",
 		"menu.background": "#191919",
+
+		// Command Center colors
+		"commandCenter.activeBackground": "#ffffff10",
+		"commandCenter.border": "#ffffff2a",
 
 		// Banner colors
 		"banner.foreground": "#ffffff",
