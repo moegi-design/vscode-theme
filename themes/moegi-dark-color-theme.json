@@ -477,7 +477,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#66b395"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#ff8787"
 			}
 		},
 		{
@@ -495,7 +495,36 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#8fbaf6"
+			}
+		},
+		{
+			"name": "Meta - Diff",
+			"scope": [
+				"source.diff"
+			],
+			"settings": {
+				"foreground": "#999999"
+			}
+		},
+		{
+			"name": "Meta - Diff header",
+			"scope": [
+				"meta.diff",
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#d4a7f4"
+			}
+		},
+		{
+			"name": "Meta - Diff file",
+			"scope": [
+				"meta.diff.header.from-file",
+				"meta.diff.header.to-file"
+			],
+			"settings": {
+				"fontStyle": "",
 			}
 		},
 		{
