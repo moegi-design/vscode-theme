@@ -70,7 +70,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
           "storage.modifier",
         ],
         "settings": {
-          "fontStyle": "italic"
+          "fontStyle": "bold"
         }
       }
     ]
