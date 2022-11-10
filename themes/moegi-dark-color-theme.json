@@ -248,7 +248,7 @@
 				"variable.other.property.ts",
 			],
 			"settings": {
-				"foreground": "#ffaccd"
+				"foreground": "#ff9cd1"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 				"punctuation.accessor",
 			],
 			"settings": {
-				"foreground": "#ffaccd"
+				"foreground": "#ff9cd1"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ffaccd"
+				"foreground": "#ff9cd1"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ffaccd"
+				"foreground": "#ff9cd1"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ffaccd"
+				"foreground": "#ff9cd1"
 			}
 		},
 		{
