@@ -5,7 +5,7 @@
 
 ![Moegi Dark](./images/screenshot.png)
 
-> Font: [Zed Mono](https://github.com/zed-industries/zed-fonts)
+> Font: [Zed Mono Extended](https://github.com/zed-industries/zed-fonts)
 
 ## Features
 
