@@ -9,16 +9,16 @@
 
 ## Features
 
-- NO flat ui
-- MacOS native title bar adaptation
-- Accent colors in appropriate areas
+- Two accent colors in one theme - unsaturated cold green (`#66b395`) and... light warm red (`#ff8787`)
+- No flat ui - you work in a real editor instead of on a whiteboard
+- MacOS native title bar adaptation - pure gray ui without color bias
 - Optimized for text selection and search
 
 ## Themes
 
 | Theme | Preview | Description |
 | --- | --- | --- |
-| Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A dark theme with a touch of pink. |
+| Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A pure dark theme. |
 | Moegi Light |  | // TODO |
 | Moegi Dark Monochrome |  | // TODO |
 | Moegi Light Monochrome |  | // TODO |
@@ -70,7 +70,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
           "storage.modifier",
         ],
         "settings": {
-          "fontStyle": "bold"
+          "fontStyle": "bold" // If you want to enable italics as well, use "bold italic"
         }
       }
     ]
