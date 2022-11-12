@@ -1,7 +1,6 @@
 {
 	"name": "Moegi Dark",
 	"type": "dark",
-	"semanticHighlighting": true,
 	"colors": {
 		// https://code.visualstudio.com/api/references/theme-color
 
@@ -220,6 +219,13 @@
 		// Breadcrumbs colors
 		"breadcrumb.foreground": "#666666",
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"namespace": "#8fbaf6",
+		"interface": "#8fbaf6",
+		"function": "#8fbaf6",
+    "variable": "#f0cda2",
+  },
 	"tokenColors": [
 		{
 			"name": "Comment",
