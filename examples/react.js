@@ -5,6 +5,8 @@ import React, { Component } from "react";
 import NavBar from "./components/navbar";
 import Counters from "./components/counters";
 
+const c = 1 + (2 + 3);
+
 class App extends Component {
   state = {
     counters: [
@@ -63,6 +65,7 @@ class App extends Component {
             onDelete={this.handleDelete}
             onRestart={this.handleRestart}
           />
+          <p>{ counters } counters</p>
         </main>
       </div>
     );
