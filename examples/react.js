@@ -7,6 +7,9 @@ import Counters from "./components/counters";
 
 const c = 1 + (2 + 3);
 
+const string = 'Hello World';
+const number = 1234;
+
 class App extends Component {
   state = {
     counters: [

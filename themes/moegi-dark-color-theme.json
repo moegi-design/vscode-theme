@@ -109,7 +109,7 @@
 		"editorCodeLens.foreground": "#666666",
 		
 		/// Bracket pair colorization
-		"editorBracketHighlight.foreground1": "#c3e88d",
+		"editorBracketHighlight.foreground1": "#9dd392",
 		"editorBracketHighlight.foreground2": "#66cece",
 		"editorBracketHighlight.foreground3": "#7098d4",
 		"editorBracketHighlight.foreground4": "#c776dc",
@@ -248,7 +248,7 @@
 				"variable.other.property.ts",
 			],
 			"settings": {
-				"foreground": "#ff9cd1"
+				"foreground": "#ffb0da"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 				"punctuation.accessor",
 			],
 			"settings": {
-				"foreground": "#ff9cd1"
+				"foreground": "#ffb0da"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ff9cd1"
+				"foreground": "#ffb0da"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ff9cd1"
+				"foreground": "#ffb0da"
 			}
 		},
 		{
@@ -349,7 +349,7 @@
 				"constant.escape",
 			],
 			"settings": {
-				"foreground": "#c3e88d"
+				"foreground": "#9dd392"
 			}
 		},
 		{
@@ -364,7 +364,7 @@
 				"punctuation.definition.string",
 			],
 			"settings": {
-				"foreground": "#66b395"
+				"foreground": "#70c8a6"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ff9cd1"
+				"foreground": "#ffb0da"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#66b395"
+				"foreground": "#70c8a6"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#c3e88d"
+				"foreground": "#9dd392"
 			}
 		},
 		{
@@ -675,7 +675,7 @@
 		// 		"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 		// 	],
 		// 	"settings": {
-		// 		"foreground": "#C3E88D"
+		// 		"foreground": "#9dd392"
 		// 	}
 		// },
 		{
@@ -806,7 +806,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"foreground": "#66b395",
+				"foreground": "#70c8a6",
 				"fontStyle": "italic"
 			}
 		},
@@ -876,7 +876,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#c3e88d"
+				"foreground": "#9dd392"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#c3e88d"
+				"foreground": "#9dd392"
 			}
 		},
 		{
@@ -895,7 +895,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#c3e88d"
+				"foreground": "#9dd392"
 			}
 		}
 	]
