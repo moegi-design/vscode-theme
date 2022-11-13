@@ -19,6 +19,7 @@
 | Theme | Preview | Description |
 | --- | --- | --- |
 | Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A pure dark theme. |
+| Moegi Black | ![Moegi Black](./images/moegi-black.png) | A pure dark theme but more black. |
 | Moegi Light |  | // TODO |
 | Moegi Dark Monochrome |  | // TODO |
 | Moegi Light Monochrome |  | // TODO |
