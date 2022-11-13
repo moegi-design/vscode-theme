@@ -135,6 +135,7 @@
 		"diffEditor.removedLineBackground": "#ff878730",
 
 		// Editor widget colors
+		"editorWidget.background": "#2a2a2a",
 		"editorSuggestWidget.background": "#202020",
 		"editorSuggestWidget.selectedBackground": "#333333",
 		"editorStickyScrollHover.background": "#333333",
