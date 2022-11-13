@@ -36,6 +36,9 @@
 
 		// Scrollbar control
 		"scrollbar.shadow": "#191919",
+		"scrollbarSlider.activeBackground": "#ffffff3f",
+		"scrollbarSlider.background": "#ffffff1a",
+		"scrollbarSlider.hoverBackground": "#ffffff2f",
 
 		// Badge
 		"badge.background": "#ff8787",
