@@ -96,6 +96,7 @@
 		"editor.findMatchHighlightBorder": "#66b3954f",
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder":"#66b395",
+		"editor.hoverHighlightBackground": "#ffffff10",
 		"editor.lineHighlightBackground":"#ffffff10",
 		"editorLink.activeForeground":"#ff8787",
 		"editorWhitespace.foreground":"#ffffff1a",
