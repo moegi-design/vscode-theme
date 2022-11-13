@@ -2,7 +2,7 @@
   "name": "moegi-theme",
   "displayName": "Moegi Theme",
   "description": "An elegant theme for VS Code",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
@@ -27,7 +27,8 @@
         "label": "Moegi Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/moegi-dark-color-theme.json"
-      }, {
+      },
+      {
         "label": "Moegi Black",
         "uiTheme": "vs-dark",
         "path": "./themes/moegi-black-color-theme.json"
