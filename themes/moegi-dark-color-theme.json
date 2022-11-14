@@ -78,6 +78,9 @@
 		"minimap.selectionHighlight":"#7098d49f",
 		"minimap.errorHighlight": "#ff8787",
 		"minimap.background": "#292929",
+		"minimapSlider.background": "#ffffff1a",
+		"minimapSlider.hoverBackground": "#ffffff2f",
+		"minimapSlider.activeBackground": "#ffffff3f",
 
 		// Editor Groups & Tabs
 		"editorGroupHeader.tabsBackground": "#191919",

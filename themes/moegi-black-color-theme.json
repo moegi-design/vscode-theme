@@ -36,9 +36,9 @@
 
 		// Scrollbar control
 		"scrollbar.shadow": "#050505",
-		"scrollbarSlider.activeBackground": "#ffffff27",
-		"scrollbarSlider.background": "#ffffff10",
-		"scrollbarSlider.hoverBackground": "#ffffff17",
+		"scrollbarSlider.activeBackground": "#ffffff37",
+		"scrollbarSlider.background": "#ffffff17",
+		"scrollbarSlider.hoverBackground": "#ffffff27",
 
 		// Badge
 		"badge.background": "#ff8787cc",
@@ -78,6 +78,9 @@
 		"minimap.selectionHighlight":"#7098d49f",
 		"minimap.errorHighlight": "#ff8787",
 		"minimap.background": "#111111",
+		"minimapSlider.background": "#ffffff17",
+		"minimapSlider.hoverBackground": "#ffffff27",
+		"minimapSlider.activeBackground": "#ffffff37",
 
 		// Editor Groups & Tabs
 		"editorGroupHeader.tabsBackground": "#050505",
