@@ -40,7 +40,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[Moegi Dark]": {
+  "[Moegi Dark][Moegi Black]": {
     "textMateRules": [
       {
         "name": "Comment Italics",
@@ -61,7 +61,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[Moegi Dark]": {
+  "[Moegi Dark][Moegi Black]": {
     "textMateRules": [
       {
         "name": "Keyword Bold",
