@@ -281,6 +281,7 @@
 				"keyword.other.unit",
 				"keyword.control.def",
 				"keyword.control.class",
+				"keyword.operator.new",
 			],
 			"settings": {
 				"foreground": "#d4a7f4"
@@ -592,9 +593,18 @@
 				"punctuation.separator",
 				"punctuation.definition.interpolation",
 				"punctuation.semi",
+			],
+			"settings": {
+				"foreground": "#ffffff7f"
+			}
+		},
+		{
+			"name": "Decorators - Operator",
+			"scope": [
 				"keyword.operator",
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#ffffff7f"
 			}
 		},
