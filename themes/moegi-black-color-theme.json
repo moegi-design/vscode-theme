@@ -285,6 +285,7 @@
 				"keyword.control.def",
 				"keyword.control.class",
 				"keyword.operator.new",
+				"keyword.operator.expression",
 			],
 			"settings": {
 				"foreground": "#d4a7f4"
