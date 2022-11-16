@@ -205,6 +205,7 @@
 
 		// Integrated Terminal colors
 		"terminal.background": "#191919",
+		"terminal.foreground": "#bbbbbb",
 		"terminal.ansiBlack": "#1e1e1e",
 		"terminal.ansiBlue": "#7098d4",
 		"terminal.ansiBrightBlack": "#1e1e1e",
