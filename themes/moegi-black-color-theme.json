@@ -49,12 +49,12 @@
 
 		// List and trees
 		"list.activeSelectionBackground": "#0f0f0f",
-		"list.dropBackground": "#ffffff07",
-		"list.focusBackground": "#ffffff07",
+		"list.dropBackground": "#ffffff10",
+		"list.focusBackground": "#ffffff10",
 		"list.focusHighlightForeground": "#66b395",
 		"list.focusOutline": "#ffffff1f",
 		"list.highlightForeground": "#66b395",
-		"list.hoverBackground":"#0d0d0d",
+		"list.hoverBackground":"#0f0f0f",
 		"list.inactiveSelectionBackground":"#0f0f0f",
 		"list.filterMatchBackground":"#66b39530",
 		"list.filterMatchBorder": "#66b395",
