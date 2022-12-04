@@ -17,6 +17,33 @@ export const palette = {
     comment: '#ffffff4f',
   },
 
+  ui: {
+    black: [
+      '#ffffff3f',
+      '#999999',
+      '#444444',
+      '#00000033',
+      '#191919', // #eeeeee
+      '#ffffff1a', // #0000001a
+      '#ffffff10',
+      '#ffffff2f',
+      '#222222',
+      '#cccccc', // 
+      '#292929',
+      '#dddddd',
+      '#ffffff1f',
+      '#ffffff6f',
+      '#666666',
+      '#2a2a2a',
+      '#202020',
+      '#333333',
+      '#999999',
+      '#000000',
+      '#00000000',
+    ],
+    border: '#ffffff1a',
+  },
+
   black: '#1e1e1e',
   red: '#e47474',
   green: '#66b395',
