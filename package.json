@@ -32,6 +32,11 @@
         "label": "Moegi Black",
         "uiTheme": "vs-dark",
         "path": "./themes/moegi-black-color-theme.json"
+      },
+      {
+        "label": "Moegi Dark Vitesse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moegi-dark-vitesse-color-theme.json"
       }
     ]
   }

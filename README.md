@@ -20,6 +20,7 @@
 | --- | --- | --- |
 | Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A pure dark theme. |
 | Moegi Black | ![Moegi Black](./images/moegi-black.png) | A pure dark theme but more black. |
+| Moegi Dark Vitesse | ![Moegi Dark Vitesse](./images/moegi-dark-vitesse.png) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized dark theme |
 | Moegi Light |  | // TODO |
 | Moegi Dark Monochrome |  | // TODO |
 | Moegi Light Monochrome |  | // TODO |
