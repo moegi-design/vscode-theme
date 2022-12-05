@@ -332,7 +332,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.section.embedded",
@@ -359,7 +358,7 @@
 				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#ffffff7f"
+				"foreground": "#ffffff6f"
 			}
 		},
     {
