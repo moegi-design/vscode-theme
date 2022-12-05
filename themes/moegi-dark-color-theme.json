@@ -225,6 +225,14 @@
 		"terminal.selectionBackground": "#444444",
 		"terminal.tab.activeBorder": "#66b395",
 
+		// Git colors
+		"gitDecoration.addedResourceForeground": "#66b395",
+		"gitDecoration.modifiedResourceForeground": "#e7d38f",
+		"gitDecoration.deletedResourceForeground": "#ff8787",
+		"gitDecoration.renamedResourceForeground": "#6ab8c0",
+		"gitDecoration.ignoredResourceForeground": "#ffffff3f",
+		"gitDecoration.conflictingResourceForeground": "#dd9a6a",
+
 		// Breadcrumbs colors
 		"breadcrumb.foreground": "#666666",
 	},
