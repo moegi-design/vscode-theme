@@ -7,13 +7,13 @@ export const palette = {
 
   token: {
     default: '#dddddd',
-    variable: '#e0ba91',
-    keyword: '#bd93db',
-    number: '#91c087',
-    constant: '#91c087',
+    variable: '#e0c991',
+    keyword: '#ba9cea',
+    number: '#e2a27c',
+    constant: '#e2a27c',
     function: '#81a6da',
-    string: '#69b397',
-    operator: '#e18db9',
+    string: '#74ccaa',
+    operator: '#ed9cc2',
     comment: '#ffffff4f',
   },
 
