@@ -120,7 +120,7 @@
 		"editorBracketHighlight.foreground3": "#7098d4",
 		"editorBracketHighlight.foreground4": "#c776dc",
 		"editorBracketHighlight.foreground5": "#ff8787",
-		"editorBracketHighlight.foreground6": "#e0ba91",
+		"editorBracketHighlight.foreground6": "#e0c991",
 
 		/// Errors and warnings
 		"editorError.foreground": "#ff8787",
@@ -265,7 +265,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e18db9"
+				"foreground": "#ed9cc2"
 			}
 		},
     {
@@ -284,19 +284,19 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#bd93db"
+				"foreground": "#ba9cea"
 			}
 		},
     {
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#e18db9"
+        "foreground": "#ed9cc2"
       }
     },
     {
@@ -305,7 +305,7 @@
 				"keyword.operator.new",
 			],
       "settings": {
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
     {
@@ -314,7 +314,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
     {
@@ -324,7 +324,7 @@
         "storage.type.java"
       ],
       "settings": {
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
 		{
@@ -340,7 +340,7 @@
 				"punctuation.accessor",
 			],
 			"settings": {
-				"foreground": "#e18db9"
+				"foreground": "#ed9cc2"
 			}
 		},
 		{
@@ -368,13 +368,13 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#69b397"
+        "foreground": "#74ccaa"
       }
     },
     {
       "scope": "support",
       "settings": {
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
 		{
@@ -396,7 +396,7 @@
     {
       "scope": "meta.property-name",
       "settings": {
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
     {
@@ -405,13 +405,13 @@
 				"variable.other.constant",
 			],
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
       "scope": "variable.other",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
@@ -460,7 +460,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
@@ -498,13 +498,13 @@
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
       "scope": "meta.module-reference",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
 		{
@@ -548,13 +548,13 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#69b397",
+        "foreground": "#74ccaa",
 				"fontStyle": "italic"
       }
     },
@@ -598,7 +598,7 @@
 				"markup.fenced_code.block",
 			],
 			"settings": {
-				"foreground": "#e0ba91"
+				"foreground": "#e0c991"
 			}
 		},
     {
@@ -616,7 +616,7 @@
         "punctuation.definition.inserted"
       ],
       "settings": {
-        "foreground": "#69b397"
+        "foreground": "#74ccaa"
       }
     },
     {
@@ -648,7 +648,7 @@
       "scope": "meta.diff.header",
       "settings": {
 				"fontStyle": "italic",
-        "foreground": "#bd93db"
+        "foreground": "#ba9cea"
       }
     },
 		{
@@ -671,7 +671,7 @@
     {
       "scope": "meta.output",
       "settings": {
-        "foreground": "#e0ba91"
+        "foreground": "#e0c991"
       }
     },
     {
@@ -699,7 +699,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#e18db9",
+        "foreground": "#ed9cc2",
         "fontStyle": "underline"
       }
     }
