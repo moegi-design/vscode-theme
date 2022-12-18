@@ -41,8 +41,8 @@
 		"scrollbarSlider.hoverBackground": "#ffffff2f",
 
 		// Badge
-		"badge.background": "#ff8787",
-		"badge.foreground": "#212121",
+		"badge.background": "#ffffff1a",
+		"badge.foreground": "#cccccc",
 
 		// Progress bar
 		"progressBar.background": "#ff8787",
