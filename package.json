@@ -42,6 +42,11 @@
         "label": "Moegi Light",
         "uiTheme": "vs",
         "path": "./themes/moegi-light-color-theme.json"
+      },
+      {
+        "label": "Moegi Light Vitesse",
+        "uiTheme": "vs",
+        "path": "./themes/moegi-light-vitesse-color-theme.json"
       }
     ]
   }

@@ -1,7 +1,8 @@
 # Moegi Theme for VSCode
 
-[![marketplace](https://img.shields.io/visual-studio-marketplace/v/ddiu8081.moegi-theme?label=Marketplace&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue?style=for-the-badge)](https://vscode.dev/theme/ddiu8081.moegi-theme)
+[![marketplace](https://img.shields.io/visual-studio-marketplace/v/ddiu8081.moegi-theme)](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
+[![marketplace](https://img.shields.io/visual-studio-marketplace/i/ddiu8081.moegi-theme?label=Installs)](https://marketplace.visualstudio.com/items?itemName=ddiu8081.moegi-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/ddiu8081.moegi-theme)
 
 ![Moegi Dark](./images/screenshot.png)
 
@@ -18,10 +19,11 @@
 
 | Theme | Preview | Description |
 | --- | --- | --- |
-| Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) | A pure dark theme. |
-| Moegi Black | ![Moegi Black](./images/moegi-black.png) | A pure dark theme but more black. |
-| Moegi Dark Vitesse | ![Moegi Dark Vitesse](./images/moegi-dark-vitesse.png) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized dark theme |
-| Moegi Light |  | // TODO |
+| Moegi Dark | ![Moegi Dark](./images/moegi-dark.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Dark) | A pure dark theme. |
+| Moegi Black | ![Moegi Black](./images/moegi-black.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Black) | A pure dark theme but more black. |
+| Moegi Dark Vitesse | ![Moegi Dark Vitesse](./images/moegi-dark-vitesse.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Dark%20Vitesse) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized dark theme |
+| Moegi Light | ![Moegi Light](./images/moegi-light.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Light) | A pure light theme. |
+| Moegi Light Vitesse | ![Moegi Light Vitesse](./images/moegi-light-vitesse.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Light%20Vitesse) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized light theme |
 | Moegi Dark Monochrome |  | // TODO |
 | Moegi Light Monochrome |  | // TODO |
 
@@ -41,7 +43,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[Moegi Dark][Moegi Black]": {
+  "[Moegi Dark][Moegi Black][Moegi Light]": {
     "textMateRules": [
       {
         "name": "Comment Italics",
@@ -62,7 +64,7 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[Moegi Dark][Moegi Black]": {
+  "[Moegi Dark][Moegi Black][Moegi Light]": {
     "textMateRules": [
       {
         "name": "Keyword Bold",
