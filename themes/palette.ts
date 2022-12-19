@@ -6,15 +6,18 @@ export const palette = {
   border: '#ffffff1a',
 
   token: {
-    default: '#dddddd',
-    variable: '#e0c991',
-    keyword: '#ba9cea',
-    number: '#e2a27c',
-    constant: '#e2a27c',
-    function: '#81a6da',
-    string: '#74ccaa',
-    operator: '#ed9cc2',
-    comment: '#ffffff4f',
+    default: ['#dddddd', '#333333'],
+    variable: ['#e0c991', '#aa935b'],
+    keyword: ['#ba9cea', '#6d2fd1'],
+    number: ['#e2a27c', '#c68660'],
+    constant: ['#e2a27c', '#c68660'],
+    function: ['#81a6da', '#1689e8'],
+    string: ['#74ccaa', '#028857'],
+    operator: ['#ed9cc2', '#e663a1'],
+    comment: ['#ffffff4f', '#ffffff4f'],
+    decorators: ['#ffffff6f', '#ffffff6f'],
+    invalid: ['#999', '#777'],
+    plain: ['#eeeeee', '#222222'],
   },
 
   ui: {
