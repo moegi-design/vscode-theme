@@ -6,7 +6,7 @@
 
 		// Base Colors
 		"focusBorder": "#26966a",
-		"foreground": "#444444",
+		"foreground": "#515151",
 		"disabledForeground": "#999999",
 		"widget.shadow": "#00000019",
 		"selection.background": "#26966a4f",
@@ -87,8 +87,7 @@
 		"editorGroupHeader.tabsBackground": "#f9f9fb",
 		"editorGroupHeader.tabsBorder": "#0000001a",
 		"tab.activeBackground": "#ffffff",
-    "tab.activeBorder": "#ffffff",
-		"tab.activeBorderTop": "#e38181",
+    "tab.activeBorder": "#e38181",
 		"tab.inactiveBackground": "#f9f9fb",
 
 		// Editor colors
@@ -97,7 +96,7 @@
     "editorLineNumber.foreground": "#aaaaaa",
     "editorLineNumber.activeForeground": "#444444",
 		"editorCursor.foreground": "#e38181",
-		"editor.selectionBackground": "#26966a4f",
+		"editor.selectionBackground": "#26966a3f",
 		"editor.selectionHighlightBorder": "#00000029",
 		"editor.wordHighlightBackground": "#00000000",
     "editor.wordHighlightStrongBackground": "#00000000",
