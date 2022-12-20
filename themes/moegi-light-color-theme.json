@@ -65,7 +65,7 @@
 		"activityBar.foreground": "#333333",
 		"activityBar.border": "#0000001a",
 		"activityBarBadge.foreground": "#222222",
-		"activityBarBadge.background": "#96d5bd",
+		"activityBarBadge.background": "#8bc6b0",
 		"activityBar.activeBorder": "#e38181",
 
 		// Side bar
@@ -93,7 +93,7 @@
 		// Editor colors
 		"editor.background": "#ffffff",
 		"editor.foreground": "#333333",
-    "editorLineNumber.foreground": "#d7d7d7",
+    "editorLineNumber.foreground": "#aaaaaa",
     "editorLineNumber.activeForeground": "#444444",
 		"editorCursor.foreground": "#e38181",
 		"editor.selectionBackground": "#26966a4f",
