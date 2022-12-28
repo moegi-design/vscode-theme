@@ -14,8 +14,8 @@
 
 		// Text colors
 		"textCodeBlock.background": "#e9e9e9",
-		"textLink.activeForeground": "#e38181",
-		"textLink.foreground": "#e38181cc",
+		"textLink.activeForeground": "#af5d5d",
+		"textLink.foreground": "#af5d5dcc",
 
 		// Action colors
 		"toolbar.hoverBackground": "#00000010",
