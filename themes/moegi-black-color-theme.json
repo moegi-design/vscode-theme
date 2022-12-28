@@ -305,7 +305,6 @@
     {
       "scope": [
 				"keyword",
-				"keyword.operator.new",
 			],
       "settings": {
         "foreground": "#ba9cea"
@@ -342,6 +341,7 @@
 				"keyword.other.template",
 				"keyword.other.substitution",
 				"punctuation.accessor",
+				"keyword.operator",
 			],
 			"settings": {
 				"foreground": "#ed9cc2"
@@ -359,7 +359,6 @@
 				"punctuation.separator",
 				"punctuation.definition.interpolation",
 				"punctuation.semi",
-				"keyword.operator",
 			],
 			"settings": {
 				"foreground": "#ffffff6f"
@@ -390,7 +389,6 @@
 				"support.function",
 				"keyword.other.special-method",
 				"entity.name.namespace",
-				"keyword.operator.assignment",
 				"entity.name.type",
 			],
 			"settings": {
@@ -578,7 +576,7 @@
     },
     {
       "scope": [
-        "markup.underline"
+        "markup.underline.link"
       ],
       "settings": {
         "fontStyle": "underline",
