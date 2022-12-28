@@ -229,7 +229,7 @@
 		"terminal.ansiRed": "#e47474",
 		"terminal.ansiWhite": "#e2e2e2",
 		"terminal.ansiYellow": "#e2c97e",
-		"terminal.selectionBackground": "#444444",
+		"terminal.selectionBackground": "#26966a4f",
 		"terminal.tab.activeBorder": "#26966a",
 
 		// Breadcrumbs colors
