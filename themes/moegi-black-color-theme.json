@@ -62,16 +62,16 @@
 		// Activity Bar
 		"activityBar.background": "#050505",
 		"activityBar.foreground": "#aaaaaa",
-		"activityBar.border": "#ffffff1a",
+		"activityBar.border": "#ffffff15",
 		"activityBarBadge.foreground": "#0d0d0d",
 		"activityBarBadge.background": "#66b395",
 		"activityBar.activeBorder": "#ff8787",
 
 		// Side bar
 		"sideBar.background": "#050505",
-		"sideBar.border": "#ffffff1a",
+		"sideBar.border": "#ffffff15",
 		"sideBarSectionHeader.background":"#0d0d0d",
-		"sideBarSectionHeader.border": "#ffffff1a",
+		"sideBarSectionHeader.border": "#ffffff15",
 
 		// Minimap
 		"minimap.findMatchHighlight":"#66b3959f",
@@ -84,7 +84,7 @@
 
 		// Editor Groups & Tabs
 		"editorGroupHeader.tabsBackground": "#050505",
-		"editorGroupHeader.tabsBorder": "#ffffff1a",
+		"editorGroupHeader.tabsBorder": "#ffffff15",
 		"tab.activeBackground": "#0d0d0d",
 		"tab.activeBorder": "#ff8787",
 		"tab.inactiveBackground": "#050505",
@@ -107,7 +107,7 @@
 		"editor.hoverHighlightBackground": "#ffffff0f",
 		"editor.lineHighlightBackground":"#212121",
 		"editorLink.activeForeground":"#ff8787",
-		"editorWhitespace.foreground":"#ffffff1a",
+		"editorWhitespace.foreground":"#ffffff15",
 		"editorIndentGuide.background": "#ffffff10",
 		"editorIndentGuide.activeBackground": "#ffffff3f",
 		"editorInlayHint.background": "#ffffff10",
@@ -137,8 +137,8 @@
 		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#66b39530",
 		"diffEditor.removedTextBackground": "#ff878730",
-		"diffEditor.border": "#ffffff1a",
-		"diffEditor.diagonalFill": "#ffffff1a",
+		"diffEditor.border": "#ffffff15",
+		"diffEditor.diagonalFill": "#ffffff15",
 		"diffEditor.insertedLineBackground": "#66b39530",
 		"diffEditor.removedLineBackground": "#ff878730",
 
@@ -170,7 +170,7 @@
 		// Status bar colors
 		"statusBar.background": "#0d0d0d",
 		"statusBar.foreground": "#777777",
-		"statusBar.border": "#ffffff1a",
+		"statusBar.border": "#ffffff15",
 		"statusBar.debuggingBackground": "#66b395",
 		"statusBar.debuggingForeground": "#000000",
 		"statusBar.noFolderBackground": "#0d0d0d",
