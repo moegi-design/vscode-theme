@@ -86,6 +86,10 @@ You can customize the theme by adding snippets to `settings.json` (`Command Pale
 
 - Language examples are from [atom/language-examples](https://github.com/atom/language-examples).
 
+## See More
+
+- [Moegi Theme for Jetbrains](https://github.com/moegi-design/jetbrains-theme)
+
 ## License
 
 MIT
