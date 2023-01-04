@@ -6,7 +6,7 @@
 		// Base Colors
 		"focusBorder": "#ffffff1f",
 		"foreground": "#7f7f7f",
-		"disabledForeground": "#292929",
+		"disabledForeground": "#6c6c6c",
 		"widget.shadow": "#00000033",
 		"selection.background": "#292929",
 		"sash.hoverBorder": "#ff8787cf",
