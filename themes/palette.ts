@@ -7,12 +7,12 @@ export const palette = {
 
   token: {
     default: ['#dddddd', '#333333'],
-    variable: ['#e0c991', '#aa935b'],
-    keyword: ['#ba9cea', '#895ec3'],
+    variable: ['#dddddd', '#333333'],
+    keyword: ['#ba9cea', '#6f5096'],
     number: ['#e2a27c', '#c68660'],
     constant: ['#e2a27c', '#c68660'],
-    function: ['#81a6da', '#147bd1'],
-    string: ['#74ccaa', '#028857'],
+    function: ['#81a6da', '#4573b0'],
+    string: ['#74ccaa', '#377961'],
     operator: ['#ed9cc2', '#c05386'],
     comment: ['#ffffff4f', '#ffffff4f'],
     decorators: ['#ffffff6f', '#ffffff6f'],
