@@ -219,10 +219,11 @@
       "scope": [
         "constant",
         "entity.name.constant",
+        "variable.other.constant",
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#dd6d2b"
+        "foreground": "#c7792b"
       }
     },
     {
@@ -367,7 +368,6 @@
     {
       "scope": [
         "variable",
-        "variable.other.constant",
       ],
       "settings": {
         "foreground": "#333333"
@@ -434,7 +434,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#dd6d2b"
+        "foreground": "#c7792b"
       }
     },
     {
@@ -445,7 +445,7 @@
         "string.regexp string.regexp.arbitrary-repitition"
       ],
       "settings": {
-        "foreground": "#dd6d2b"
+        "foreground": "#c7792b"
       }
     },
     {
@@ -457,7 +457,7 @@
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#dd6d2b"
+        "foreground": "#c7792b"
       }
     },
     {
@@ -630,7 +630,7 @@
       "scope": "meta.separator",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#dd6d2b"
+        "foreground": "#c7792b"
       }
     },
     {
