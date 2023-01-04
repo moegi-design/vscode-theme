@@ -260,7 +260,7 @@
     {
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {
@@ -373,13 +373,13 @@
         "variable.other.constant",
       ],
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {
       "scope": "variable.other",
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {
@@ -428,7 +428,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {
@@ -466,13 +466,13 @@
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {
       "scope": "meta.module-reference",
       "settings": {
-        "foreground": "#e0c991"
+        "foreground": "#dddddd"
       }
     },
     {

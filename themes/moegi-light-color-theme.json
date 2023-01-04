@@ -370,13 +370,13 @@
         "variable.other.constant",
       ],
       "settings": {
-        "foreground": "#b48208"
+        "foreground": "#333333"
       }
     },
     {
       "scope": "variable.other",
       "settings": {
-        "foreground": "#b48208"
+        "foreground": "#333333"
       }
     },
     {
@@ -425,7 +425,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#b48208"
+        "foreground": "#333333"
       }
     },
     {
@@ -463,13 +463,13 @@
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#b48208"
+        "foreground": "#333333"
       }
     },
     {
       "scope": "meta.module-reference",
       "settings": {
-        "foreground": "#b48208"
+        "foreground": "#333333"
       }
     },
     {
