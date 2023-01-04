@@ -54,7 +54,7 @@ export const palette = {
   green: '#66b395',
   yellow: '#e2c97e',
   blue: '#7098d4',
-  magenta: '#b479c3',
+  magenta: '#b290ba',
   cyan: '#6ab8c0',
-  white: '#eeeeee',
+  white: '#dddddd',
 }
