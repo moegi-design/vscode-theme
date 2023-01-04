@@ -100,7 +100,7 @@
     /// Codelens
     "editorCodeLens.foreground": "#666666",
     /// Bracket pair colorization
-    "editorBracketHighlight.foreground1": "#e2a27c",
+    "editorBracketHighlight.foreground1": "#76c3a5",
     "editorBracketHighlight.foreground2": "#66cece",
     "editorBracketHighlight.foreground3": "#7098d4",
     "editorBracketHighlight.foreground4": "#c776dc",
