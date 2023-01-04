@@ -11,6 +11,7 @@ export const palette = {
     keyword: ['#ba9cea', '#6f5096'],
     number: ['#e7b283', '#dd6d2b'],
     constant: ['#e7b283', '#dd6d2b'],
+    parameter: ['#e7b283', '#dd6d2b'],
     function: ['#81a6da', '#4573b0'],
     string: ['#74ccaa', '#377961'],
     operator: ['#ed9cc2', '#c05386'],
