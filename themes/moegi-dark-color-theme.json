@@ -264,9 +264,13 @@
       }
     },
     {
-      "scope": "entity.name.tag",
+      "name": "HTML tags",
+      "scope": [
+        "entity.name.tag",
+        "support.class.component",
+      ],
       "settings": {
-        "foreground": "#ed9cc2"
+        "foreground": "#e7d38f"
       }
     },
     {
@@ -274,7 +278,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#ed9cc2"
       }
     },
     {
@@ -283,7 +287,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#ed9cc2"
       }
     },
     {
@@ -299,7 +303,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
         "constant.other.color",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
