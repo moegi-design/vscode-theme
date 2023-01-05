@@ -6,7 +6,7 @@
 		// Base Colors
 		"focusBorder": "#ffffff1f",
 		"foreground": "#7f7f7f",
-		"disabledForeground": "#292929",
+		"disabledForeground": "#6c6c6c",
 		"widget.shadow": "#00000033",
 		"selection.background": "#292929",
 		"sash.hoverBorder": "#ff8787cf",
@@ -100,7 +100,7 @@
 		/// Codelens
 		"editorCodeLens.foreground": "#555555",
 		/// Bracket pair colorization
-		"editorBracketHighlight.foreground1": "#e2a27c",
+		"editorBracketHighlight.foreground1": "#76c3a5",
 		"editorBracketHighlight.foreground2": "#66cece",
 		"editorBracketHighlight.foreground3": "#7098d4",
 		"editorBracketHighlight.foreground4": "#c776dc",
@@ -184,15 +184,15 @@
 		"terminal.ansiBrightBlue": "#80a8e4",
 		"terminal.ansiBrightCyan": "#7ac8d0",
 		"terminal.ansiBrightGreen": "#76c3a5",
-		"terminal.ansiBrightMagenta": "#c489d3",
+		"terminal.ansiBrightMagenta": "#c2a0ca",
 		"terminal.ansiBrightRed": "#f48484",
 		"terminal.ansiBrightWhite": "#f6f6f6",
 		"terminal.ansiBrightYellow": "#f2d98e",
 		"terminal.ansiCyan": "#6ab8c0",
 		"terminal.ansiGreen": "#66b395",
-		"terminal.ansiMagenta": "#b479c3",
+		"terminal.ansiMagenta": "#b290ba",
 		"terminal.ansiRed": "#e47474",
-		"terminal.ansiWhite": "#eeeeee",
+		"terminal.ansiWhite": "#dddddd",
 		"terminal.ansiYellow": "#e2c97e",
 		"terminal.selectionBackground": "#292929",
 		"terminal.tab.activeBorder": "#66b395",
@@ -222,10 +222,11 @@
 			"scope": [
 				"constant",
 				"entity.name.constant",
+				"variable.other.constant",
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#e2a27c"
+				"foreground": "#e7b283"
 			}
 		},
 		{
@@ -371,10 +372,9 @@
 		{
 			"scope": [
 				"variable",
-				"variable.other.constant",
 			],
 			"settings": {
-				"foreground": "#dddddd"
+				"foreground": "#e7b283"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#e2a27c"
+				"foreground": "#e7b283"
 			}
 		},
 		{
@@ -449,7 +449,7 @@
 				"string.regexp string.regexp.arbitrary-repitition"
 			],
 			"settings": {
-				"foreground": "#e2a27c"
+				"foreground": "#e7b283"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 		{
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#e2a27c"
+				"foreground": "#e7b283"
 			}
 		},
 		{
@@ -634,7 +634,7 @@
 			"scope": "meta.separator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#e2a27c"
+				"foreground": "#e7b283"
 			}
 		},
 		{
