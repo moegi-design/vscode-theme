@@ -45,6 +45,11 @@ var cheese = new Food('feta', 5);
 var fun = new Toy('robot', 40);
 
 
+// 3. Regex ----------------------
+const regex1 = /^[\w\.-]+@([\w\-]+|\.)+[A-Z0-9]{2,4}(?x)/;
+const regex2 = /\x0g\#\p{Alpha}\1/;
+const regex3 = /.*\Q...\E$/;
+
 
 /**
 sample javascript from xui
