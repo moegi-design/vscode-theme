@@ -222,8 +222,6 @@
       "scope": [
         "constant",
         "entity.name.constant",
-        "variable.other.constant",
-        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#e7b283"
@@ -271,14 +269,6 @@
         "support.class.component",
       ],
       "settings": {
-        "foreground": "#e7d38f"
-      }
-    },
-    {
-      "scope": [
-        "keyword",
-      ],
-      "settings": {
         "foreground": "#ed9cc2"
       }
     },
@@ -286,6 +276,14 @@
       "scope": [
         "storage",
         "storage.type"
+      ],
+      "settings": {
+        "foreground": "#ba9cea"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
       ],
       "settings": {
         "foreground": "#ed9cc2"
@@ -374,6 +372,8 @@
     {
       "scope": [
         "variable",
+        "variable.other.constant",
+        "variable.other.enummember",
       ],
       "settings": {
         "foreground": "#e7b283"
