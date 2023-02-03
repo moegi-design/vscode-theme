@@ -355,7 +355,7 @@
         "entity.name.namespace",
       ],
       "settings": {
-        "foreground": "#65aff8"
+        "foreground": "#90aae0"
       }
     },
     {
@@ -371,7 +371,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#c1e2e2"
+        "foreground": "#90aae0"
       }
     },
     {
