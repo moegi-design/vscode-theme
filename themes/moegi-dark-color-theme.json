@@ -302,7 +302,6 @@
         "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
-        "punctuation.accessor",
         "keyword.operator",
       ],
       "settings": {
@@ -315,7 +314,7 @@
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js",
         "punctuation.definition.tag",
-        "punctuation.accessor.optional",
+        "punctuation.accessor",
         "punctuation.separator.comma",
         "punctuation.terminator",
         "punctuation.separator",
@@ -356,7 +355,7 @@
         "entity.name.namespace",
       ],
       "settings": {
-        "foreground": "#94b8ff"
+        "foreground": "#65aff8"
       }
     },
     {
@@ -372,7 +371,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#fa7d96"
+        "foreground": "#c1e2e2"
       }
     },
     {
@@ -380,7 +379,7 @@
         "variable.other.property",
       ],
       "settings": {
-        "foreground": "#fa7d96"
+        "foreground": "#c1e2e2"
       }
     },
     {
@@ -478,7 +477,7 @@
         "meta.module-reference",
       ],
       "settings": {
-        "foreground": "#fa7d96" //ffbe78
+        "foreground": "#c1e2e2"
       }
     },
     {
@@ -512,7 +511,7 @@
         "punctuation.definition.metadata.markdown",
       ],
       "settings": {
-        "foreground": "#ffffff7f"
+        "foreground": "#ffffff6f"
       }
     },
     {
