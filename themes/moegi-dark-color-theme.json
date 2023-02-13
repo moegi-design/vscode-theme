@@ -265,13 +265,11 @@
       }
     },
     {
-      "scope": "entity.name.tag",
-      "settings": {
-        "foreground": "#ed9cc2"
-      }
-    },
-    {
-      "scope": "entity.name.tag.css",
+      "scope": [
+        "entity.name.tag",
+        "entity.name.tag.css",
+        "support.class.component",
+      ],
       "settings": {
         "foreground": "#ed9cc2"
       }
@@ -279,7 +277,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -294,7 +292,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -358,12 +356,13 @@
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#81a6da"
+        "foreground": "#5fb5be"
       }
     },
     {
       "scope": [
         "punctuation.definition",
+        "punctuation.terminator",
       ],
       "settings": {
         "foreground": "#ffffff5f"
@@ -378,7 +377,7 @@
     {
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -400,7 +399,7 @@
         "entity.name.function.preprocessor"
       ],
       "settings": {
-        "foreground": "#81a6da"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -418,13 +417,13 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#fea99c"
+        "foreground": "#a0a5d6"
       }
     },
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#ba9cea"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -506,7 +505,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#fea99c"
+        "foreground": "#a0a5d6"
       }
     },
     {
@@ -562,7 +561,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#81a6da"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -600,7 +599,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#81a6da"
+				"foreground": "#5fb5be"
 			}
 		},
 		{
@@ -640,7 +639,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#ba9cea"
+				"foreground": "#f3a580"
 			}
 		},
 		{
@@ -654,7 +653,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#ba9cea"
+				"foreground": "#f3a580"
 			}
 		},
 		{
@@ -681,7 +680,7 @@
 				"constant.other.placeholder", // placeholders in strings
 			],
 			"settings": {
-				"foreground": "#fea99c"
+				"foreground": "#a0a5d6"
 			}
 		},
 		{
@@ -691,7 +690,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#fea99c",
+				"foreground": "#a0a5d6",
 			}
 		},
 		{
@@ -700,7 +699,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#fea99c",
+				"foreground": "#a0a5d6",
 			}
 		},
 		{
@@ -750,13 +749,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#81a6da"
+				"foreground": "#5fb5be"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#81a6da"
+				"foreground": "#5fb5be"
 			}
 		},
 		{
@@ -768,7 +767,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#81a6da"
+				"foreground": "#5fb5be"
 			}
 		},
 		{
