@@ -6,7 +6,7 @@
 
 ![Moegi Dark](./images/screenshot.png)
 
-> Font: [Zed Mono Extended](https://github.com/zed-industries/zed-fonts)
+> Font: [IBM Plex Mono](https://github.com/IBM/plex)
 
 ## Features
 
