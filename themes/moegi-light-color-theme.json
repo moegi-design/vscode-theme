@@ -229,7 +229,7 @@
     {
       "scope": "header",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -274,7 +274,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -289,7 +289,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -308,7 +308,7 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#8878a3"
+        "foreground": "#6b588e"
       }
     },
     {
@@ -322,7 +322,7 @@
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8878a3"
+        "foreground": "#6b588e"
       }
     },
     {
@@ -353,7 +353,7 @@
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -374,7 +374,7 @@
     {
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -396,7 +396,7 @@
         "entity.name.function.preprocessor"
       ],
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -414,13 +414,13 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#8878a3"
+        "foreground": "#6b588e"
       }
     },
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -502,7 +502,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#8878a3"
+        "foreground": "#6b588e"
       }
     },
     {
@@ -558,7 +558,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#57898e"
+        "foreground": "#668f9a"
       }
     },
     {
@@ -596,7 +596,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#57898e"
+				"foreground": "#668f9a"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 				"constant.other.placeholder", // placeholders in strings
 			],
 			"settings": {
-				"foreground": "#8878a3"
+				"foreground": "#6b588e"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#8878a3",
+				"foreground": "#6b588e",
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#8878a3",
+				"foreground": "#6b588e",
 			}
 		},
 		{
@@ -746,13 +746,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#57898e"
+				"foreground": "#668f9a"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#57898e"
+				"foreground": "#668f9a"
 			}
 		},
 		{
@@ -764,7 +764,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#57898e"
+				"foreground": "#668f9a"
 			}
 		},
 		{
