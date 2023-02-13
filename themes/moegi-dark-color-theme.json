@@ -232,7 +232,7 @@
     {
       "scope": "header",
       "settings": {
-        "foreground": "#000080"
+        "foreground": "#5fb5be"
       }
     },
     {
@@ -311,7 +311,7 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#c8b6e5"
+        "foreground": "#a0a5d6"
       }
     },
     {
@@ -325,7 +325,7 @@
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c8b6e5"
+        "foreground": "#a0a5d6"
       }
     },
     {
