@@ -58,7 +58,7 @@
 		// Side bar
 		"sideBar.background": "#050505",
 		"sideBar.border": "#ffffff15",
-		"sideBarSectionHeader.background": "#0d0d0d",
+		"sideBarSectionHeader.background": "#050505",
 		"sideBarSectionHeader.border": "#ffffff15",
 		// Minimap
 		"minimap.findMatchHighlight": "#66b3959f",
@@ -143,7 +143,7 @@
 		// Panel colors
 		"panel.background": "#050505",
 		// Status bar colors
-		"statusBar.background": "#0d0d0d",
+		"statusBar.background": "#050505",
 		"statusBar.foreground": "#777777",
 		"statusBar.border": "#ffffff15",
 		"statusBar.debuggingBackground": "#66b395",

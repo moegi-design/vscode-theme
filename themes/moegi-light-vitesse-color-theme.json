@@ -59,7 +59,7 @@
     // Side bar
     "sideBar.background": "#f9f9fb",
     "sideBar.border": "#0000001a",
-    "sideBarSectionHeader.background": "#f9f9fa",
+    "sideBarSectionHeader.background": "#f9f9fb",
     "sideBarSectionHeader.border": "#0000001a",
     // Minimap
     "minimap.findMatchHighlight": "#26966a9f",
