@@ -326,7 +326,7 @@
       }
     },
     {
-      "scope": "markup.underline.link.markdown",
+      "scope": "markup.underline.link",
       "settings": {
         "foreground": "#808080"
       }

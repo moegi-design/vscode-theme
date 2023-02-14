@@ -323,7 +323,7 @@
       }
     },
     {
-      "scope": "markup.underline.link.markdown",
+      "scope": "markup.underline.link",
       "settings": {
         "foreground": "#a0a0a0"
       }
