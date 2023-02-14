@@ -115,8 +115,8 @@
     "editorWarning.foreground": "#e7d38f",
     "editorInfo.foreground": "#7098d4",
     /// The gutter contains the glyph margins and the line numbers
-    "editorGutter.modifiedBackground": "#7098d4af",
-    "editorGutter.addedBackground": "#26966aaf",
+    "editorGutter.modifiedBackground": "#7098d4cf",
+    "editorGutter.addedBackground": "#26966acf",
     "editorGutter.deletedBackground": "#c55151",
     // Diff editor colors
     "diffEditor.insertedTextBackground": "#26966a20",
