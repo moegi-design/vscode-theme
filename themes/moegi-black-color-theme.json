@@ -307,6 +307,18 @@
         "fontStyle": "underline"
       }
     },
+		{
+      "scope": "string.other.link",
+      "settings": {
+        "foreground": "#5fb5be"
+      }
+    },
+    {
+      "scope": "markup.underline.link.markdown",
+      "settings": {
+        "foreground": "#808080"
+      }
+    },
     {
       "scope": "markup.bold",
       "settings": {
