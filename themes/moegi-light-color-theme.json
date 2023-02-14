@@ -239,6 +239,17 @@
       }
     },
     {
+      "scope": [
+        "punctuation.definition",
+        "punctuation.definition.quote.begin.markdown",
+        "punctuation.definition.tag",
+        "punctuation.section.embedded",
+      ],
+      "settings": {
+        "foreground": "#0000005f"
+      }
+    },
+    {
       "scope": "constant.language",
       "settings": {
         "foreground": "#c7792b"
@@ -369,21 +380,6 @@
       }
     },
     {
-      "scope": [
-        "punctuation.definition",
-        "punctuation.terminator",
-      ],
-      "settings": {
-        "foreground": "#0000005f"
-      }
-    },
-    {
-      "scope": "punctuation.definition.quote.begin.markdown",
-      "settings": {
-        "foreground": "#0000005f"
-      }
-    },
-    {
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
         "foreground": "#668f9a"
@@ -393,13 +389,6 @@
       "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#c7792b"
-      }
-    },
-    {
-      "name": "brackets of XML/HTML tags",
-      "scope": "punctuation.definition.tag",
-      "settings": {
-        "foreground": "#0000005f"
       }
     },
     {
@@ -482,17 +471,6 @@
       "scope": "string.regexp",
       "settings": {
         "foreground": "#c7792b"
-      }
-    },
-    {
-      "name": "String interpolation",
-      "scope": [
-        "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end",
-        "punctuation.section.embedded"
-      ],
-      "settings": {
-        "foreground": "#0000006f"
       }
     },
     {
