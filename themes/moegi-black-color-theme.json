@@ -27,6 +27,7 @@
 		"input.border": "#ffffff07",
 		"inputOption.activeBackground": "#292929",
 		"inputOption.activeForeground": "#ffffff",
+		"inputOption.activeBorder": "#6c6c6c",
 		// Scrollbar control
 		"scrollbar.shadow": "#050505",
 		"scrollbarSlider.activeBackground": "#ffffff37",
