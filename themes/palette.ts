@@ -14,6 +14,7 @@ export const palette = {
     parameter: ['#a0a5d6', '#6b588e'],
     function: ['#5fb5be', '#668f9a'],
     string: ['#74ccaa', '#377961'],
+    class: ['#f3a580', '#b5855c'],
     operator: ['#ffffff5f', '#0000005f'],
     comment: ['#ffffff4f', '#0000004f'],
     decorators: ['#ffffff5f', '#0000005f'],
