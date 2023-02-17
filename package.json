@@ -44,6 +44,11 @@
         "path": "./themes/moegi-dark-vitesse-color-theme.json"
       },
       {
+        "label": "Moegi Black Zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moegi-black-zen-color-theme.json"
+      },
+      {
         "label": "Moegi Light",
         "uiTheme": "vs",
         "path": "./themes/moegi-light-color-theme.json"
