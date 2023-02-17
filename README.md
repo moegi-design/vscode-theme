@@ -23,6 +23,7 @@
 | Moegi Black | ![Moegi Black](./images/moegi-black.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Black) | A pure dark theme but more black. |
 | Moegi Space | ![Moegi Space](./images/moegi-space.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Space) | A cooler dark theme. |
 | Moegi Dark Vitesse | ![Moegi Dark Vitesse](./images/moegi-dark-vitesse.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Dark%20Vitesse) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized dark theme |
+| Moegi Black Zen | ![Moegi Black Zen](./images/moegi-black-zen.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Black%20Zen) | A pure dark theme with limited highlighting. |
 | Moegi Light | ![Moegi Light](./images/moegi-light.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Light) | A pure light theme. |
 | Moegi Dawn | ![Moegi Dawn](./images/moegi-dawn.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Dawn) | A soft light theme. |
 | Moegi Light Vitesse | ![Moegi Light Vitesse](./images/moegi-light-vitesse.png) [Online Preview](https://vscode.dev/theme/ddiu8081.moegi-theme/Moegi%20Light%20Vitesse) | [Vitesse](https://github.com/antfu/vscode-theme-vitesse) stylized light theme |
