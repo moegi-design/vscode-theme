@@ -75,6 +75,7 @@
     "tab.activeBackground": "#202020",
     "tab.activeBorder": "#ff8787",
     "tab.inactiveBackground": "#181818",
+    "tab.border": "#ffffff12",
     // Editor colors
     "editor.background": "#202020",
     "editor.foreground": "#dddddd",
@@ -134,6 +135,7 @@
     "peekViewEditor.matchHighlightBorder": "#66b395",
     "peekViewResult.matchHighlightBackground": "#66b3953f",
     "peekViewResult.selectionBackground": "#66b3953f",
+    "peekViewResult.background": "#2e2e2e",
     "peekViewTitle.background": "#333333",
     "peekViewEditorStickScroll.background": "#333333",
     // Merge conflicts colors
