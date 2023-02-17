@@ -4,11 +4,11 @@
   "colors": {
     // https://code.visualstudio.com/api/references/theme-color
     // Base Colors
-    "focusBorder": "#26966a",
+    "focusBorder": "#a89f97",
     "foreground": "#685f57",
     "disabledForeground": "#a89f97",
     "widget.shadow": "#180f0719",
-    "selection.background": "#26966a4f",
+    "selection.background": "#180f0715",
     "sash.hoverBorder": "#e38181",
     // Text colors
     "textCodeBlock.background": "#f8efe7",
@@ -44,10 +44,10 @@
     "list.dropBackground": "#180f0708",
     "list.focusBackground": "#180f0708",
     "list.focusHighlightForeground": "#26966a",
-    "list.focusOutline": "#26966a",
+    "list.focusOutline": "#c8bfb7",
     "list.highlightForeground": "#26966a",
     "list.hoverBackground": "#180f0708",
-    "list.inactiveSelectionBackground": "#f8efe7",
+    "list.inactiveSelectionBackground": "#f0e7de",
     "list.filterMatchBackground": "#26966a30",
     "list.filterMatchBorder": "#26966a",
     // Activity Bar
@@ -76,6 +76,7 @@
     "tab.activeBackground": "#fbf5ef",
     "tab.activeBorder": "#e38181",
     "tab.inactiveBackground": "#f8efe7",
+    "tab.border": "#180f0710",
     // Editor colors
     "editor.background": "#fbf5ef",
     "editor.foreground": "#483f37",
@@ -94,7 +95,7 @@
     "editor.findMatchBorder": "#26966a",
     "searchEditor.findMatchBorder": "#26966a",
     "editor.hoverHighlightBackground": "#180f0710",
-    "editor.lineHighlightBackground": "#f8efe7",
+    "editor.lineHighlightBackground": "#f5ece2",
     "editorLink.activeForeground": "#e38181",
     "editorWhitespace.foreground": "#180f0710",
     "editorIndentGuide.background": "#180f0708",
