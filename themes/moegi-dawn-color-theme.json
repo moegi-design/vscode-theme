@@ -39,7 +39,7 @@
     // Progress bar
     "progressBar.background": "#e38181",
     // List and trees
-    "list.activeSelectionBackground": "#f8efe7",
+    "list.activeSelectionBackground": "#f0e7de",
     "list.activeSelectionForeground": "#584f47",
     "list.dropBackground": "#180f0708",
     "list.focusBackground": "#180f0708",
