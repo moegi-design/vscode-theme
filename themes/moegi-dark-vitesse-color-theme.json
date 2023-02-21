@@ -102,12 +102,10 @@
     /// Codelens
     "editorCodeLens.foreground": "#666666",
     /// Bracket pair colorization
-    "editorBracketHighlight.foreground1": "#76c3a5",
-    "editorBracketHighlight.foreground2": "#66cece",
-    "editorBracketHighlight.foreground3": "#7098d4",
-    "editorBracketHighlight.foreground4": "#c776dc",
-    "editorBracketHighlight.foreground5": "#ff8787",
-    "editorBracketHighlight.foreground6": "#e0c991",
+    "editorBracketHighlight.foreground1": "#b5a165",
+    "editorBracketHighlight.foreground2": "#5e9c84",
+    "editorBracketHighlight.foreground3": "#8e7395",
+    "editorBracketHighlight.foreground4": "#5a7aaa",
     /// Errors and warnings
     "editorError.foreground": "#ff8787",
     "editorWarning.foreground": "#e7d38f",
