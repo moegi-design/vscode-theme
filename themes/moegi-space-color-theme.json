@@ -94,7 +94,7 @@
     "editor.lineHighlightBackground": "#2d2a3e",
     "editorLink.activeForeground": "#ff8787",
     "editorWhitespace.foreground": "#f8f2fd12",
-    "editorIndentGuide.background": "#f8f2fd10",
+    "editorIndentGuide.background": "#f8f2fd12",
     "editorIndentGuide.activeBackground": "#f8f2fd3f",
     "editorInlayHint.background": "#f8f2fd10",
     "editorInlayHint.foreground": "#f8f2fd6f",
