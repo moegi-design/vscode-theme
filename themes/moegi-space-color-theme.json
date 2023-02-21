@@ -39,21 +39,21 @@
     // Progress bar
     "progressBar.background": "#ff8787",
     // List and trees
-    "list.activeSelectionBackground": "#201c2d",
+    "list.activeSelectionBackground": "#221e30",
     "list.dropBackground": "#f8f2fd12",
     "list.focusBackground": "#f8f2fd12",
     "list.focusHighlightForeground": "#66b395",
     "list.focusOutline": "#f8f2fd12",
     "list.highlightForeground": "#66b395",
-    "list.hoverBackground": "#201c2d",
-    "list.inactiveSelectionBackground": "#201c2d",
+    "list.hoverBackground": "#221e30",
+    "list.inactiveSelectionBackground": "#221e30",
     "list.filterMatchBackground": "#66b39530",
     "list.filterMatchBorder": "#66b395",
     // Activity Bar
     "activityBar.background": "#191624",
     "activityBar.foreground": "#c8c2dd",
     "activityBar.border": "#f8f2fd12",
-    "activityBarBadge.foreground": "#201c2d",
+    "activityBarBadge.foreground": "#221e30",
     "activityBarBadge.background": "#66b395",
     "activityBar.activeBorder": "#ff8787",
     // Side bar
@@ -72,11 +72,11 @@
     // Editor Groups & Tabs
     "editorGroupHeader.tabsBackground": "#191624",
     "editorGroupHeader.tabsBorder": "#f8f2fd12",
-    "tab.activeBackground": "#201c2d",
+    "tab.activeBackground": "#221e30",
     "tab.activeBorder": "#ff8787",
     "tab.inactiveBackground": "#191624",
     // Editor colors
-    "editor.background": "#201c2d",
+    "editor.background": "#221e30",
     "editor.foreground": "#ddd8e4",
     "editorLineNumber.foreground": "#68627d",
     "editorLineNumber.activeForeground": "#c8c2dd",
@@ -150,7 +150,7 @@
     "statusBar.border": "#f8f2fd12",
     "statusBar.debuggingBackground": "#66b395",
     "statusBar.debuggingForeground": "#000000",
-    "statusBar.noFolderBackground": "#201c2d",
+    "statusBar.noFolderBackground": "#221e30",
     "statusBar.noFolderForeground": "#9892ad",
     "statusBar.focusBorder": "#00000000",
     "statusBarItem.prominentBackground": "#66b395",
@@ -163,7 +163,7 @@
     "statusBarItem.warningForeground": "#000000",
     // Title bar colors
     "titleBar.activeBackground": "#191624",
-    "titleBar.inactiveBackground": "#201c2d",
+    "titleBar.inactiveBackground": "#221e30",
     "titleBar.border": "#f8f2fd10",
     // Menu bar colors
     "menu.foreground": "#cccccc",
