@@ -178,7 +178,7 @@
 		"quickInput.background": "#050505",
 		// Integrated Terminal colors
 		"terminal.background": "#050505",
-		"terminal.foreground": "#747476",
+		"terminal.foreground": "#707080",
 		"terminal.ansiBlack": "#292929",
 		"terminal.ansiBlue": "#7789a3",
 		"terminal.ansiBrightBlack": "#393939",
@@ -242,7 +242,7 @@
 				"punctuation.definition.comment"
 			],
       "settings": {
-        "foreground": "#ffffff4f"
+        "foreground": "#ffffff39"
       }
     },
     {
@@ -434,13 +434,13 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -449,7 +449,7 @@
         "keyword.operator.noexcept"
       ],
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -505,19 +505,19 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -534,13 +534,13 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -549,7 +549,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -580,7 +580,7 @@
       "scope": "variable.language",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#747476"
+        "foreground": "#707080"
       }
     },
     {
@@ -661,7 +661,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#747476"
+				"foreground": "#707080"
 			}
 		},
     {
@@ -703,7 +703,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#b6b6b6",
+				"foreground": "#a3a3a3",
 			}
 		},
 		{
@@ -783,7 +783,7 @@
   ],
   "semanticHighlighting": true,
 	"semanticTokenColors": {
-		"newOperator":"#747476",
+		"newOperator":"#707080",
 		"stringLiteral":"#74ccaa",
 		"customLiteral": "#f6c177",
 		"numberLiteral": "#f6c177",
