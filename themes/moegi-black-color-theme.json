@@ -8,7 +8,7 @@
 		"foreground": "#7f7f7f",
 		"disabledForeground": "#6c6c6c",
 		"widget.shadow": "#00000033",
-		"selection.background": "#292929",
+		"selection.background": "#363636",
 		"sash.hoverBorder": "#ff8787cf",
 		// Text colors
 		"textCodeBlock.background": "#292929",
