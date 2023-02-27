@@ -236,7 +236,10 @@
       }
     },
     {
-      "scope": "comment",
+      "scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
       "settings": {
         "foreground": "#f8f2fd4f"
       }

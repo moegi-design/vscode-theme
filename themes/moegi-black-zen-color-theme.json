@@ -1,5 +1,5 @@
 {
-	"name": "Moegi Black Zen (Experimental)",
+	"name": "Moegi Black Zen",
 	"type": "dark",
 	"colors": {
 		// https://code.visualstudio.com/api/references/theme-color
@@ -237,7 +237,10 @@
       }
     },
     {
-      "scope": "comment",
+      "scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
       "settings": {
         "foreground": "#ffffff4f"
       }
