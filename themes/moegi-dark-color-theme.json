@@ -167,6 +167,7 @@
     // Menu bar colors
     "menu.foreground": "#cccccc",
     "menu.background": "#181818",
+    "menu.separatorBackground": "#ffffff12",
     // Command Center colors
     "commandCenter.activeBackground": "#ffffff10",
     "commandCenter.border": "#ffffff2a",
