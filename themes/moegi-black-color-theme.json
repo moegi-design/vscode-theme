@@ -23,7 +23,7 @@
 		"dropdown.background": "#050505",
 		"dropdown.border": "#ffffff3a",
 		// Input control
-		"input.background": "#ffffff07",
+		"input.background": "#0f0f0f",
 		"input.border": "#ffffff07",
 		"inputOption.activeBackground": "#292929",
 		"inputOption.activeForeground": "#ffffff",
