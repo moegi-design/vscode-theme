@@ -39,6 +39,11 @@
         "path": "./themes/moegi-space-color-theme.json"
       },
       {
+        "label": "Moegi Iris",
+        "uiTheme": "vs",
+        "path": "./themes/moegi-iris-color-theme.json"
+      },
+      {
         "label": "Moegi Dark Vitesse",
         "uiTheme": "vs-dark",
         "path": "./themes/moegi-dark-vitesse-color-theme.json"
