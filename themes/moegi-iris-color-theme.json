@@ -136,7 +136,7 @@
     "peekViewEditor.matchHighlightBorder": "#26966a",
     "peekViewResult.matchHighlightBackground": "#26966a3f",
     "peekViewResult.selectionBackground": "#26966a3f",
-    "peekViewResult.background": "#f0eae4",
+    "peekViewResult.background": "#ece4f0",
     "peekViewTitle.background": "#f1e9f5",
     "peekViewEditorStickScroll.background": "#f1e9f5",
     // Merge conflicts colors
