@@ -128,6 +128,7 @@
     "editorWidget.background": "#fff9f3",
     "editorSuggestWidget.background": "#fff9f3",
     "editorSuggestWidget.selectedBackground": "#f5efe9",
+    "editorHoverWidget.statusBarBackground": "#f5efe9",
     "editorStickyScrollHover.background": "#f5efe9",
     // Peek view colors
     "peekView.border": "#c8bfb7",
