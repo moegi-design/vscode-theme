@@ -39,7 +39,7 @@
     // Progress bar
     "progressBar.background": "#e38181",
     // List and trees
-    "list.activeSelectionBackground": "#00000008",
+    "list.activeSelectionBackground": "#00000015",
     "list.activeSelectionForeground": "#444444",
     "list.dropBackground": "#00000008",
     "list.focusBackground": "#00000008",
@@ -47,7 +47,7 @@
     "list.focusOutline": "#26966a",
     "list.highlightForeground": "#26966a",
     "list.hoverBackground": "#00000008",
-    "list.inactiveSelectionBackground": "#00000008",
+    "list.inactiveSelectionBackground": "#00000015",
     "list.filterMatchBackground": "#26966a30",
     "list.filterMatchBorder": "#26966a",
     // Activity Bar
