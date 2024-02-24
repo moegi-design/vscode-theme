@@ -236,12 +236,14 @@
         "keyword.operator.rest",
         "keyword.operator.spread",
         "keyword.operator.type.annotation",
-        "keyword.operator.relational.ts",
+        "keyword.operator.relational",
+        "keyword.operator.assignment",
         "meta.brace",
         "meta.tag.block.any.html",
         "meta.tag.inline.any.html",
         "meta.tag.structure.input.void.html",
         "meta.type.annotation",
+        "meta.embedded.block.github-actions-expression",
         "storage.type.function.arrow",
         "keyword.operator.type",
         "meta.objectliteral.ts",
@@ -315,6 +317,7 @@
     },
     {
       "scope": [
+        "text.html.derivative",
         "storage.modifier.package",
         "storage.modifier.import",
         "storage.type.java"
@@ -384,7 +387,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#5da9a7"
+        "foreground": "#5DA994"
       }
     },
     {
@@ -396,6 +399,7 @@
     {
       "scope": [
         "keyword.operator",
+        "keyword.operator.assignment.compound",
         "meta.var.expr.ts"
       ],
       "settings": {
@@ -536,7 +540,7 @@
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#5DA994"
+        "foreground": "#5d99a9"
       }
     },
     {
@@ -659,7 +663,8 @@
     },
     {
       "scope": [
-        "markup.underline.link.markdown"
+        "markup.underline.link.markdown",
+        "markup.underline.link.image.markdown"
       ],
       "settings": {
         "foreground": "#dedcd590",
@@ -671,7 +676,7 @@
         "type.identifier"
       ],
       "settings": {
-        "foreground": "#6893BF"
+        "foreground": "#7f8ac7"
       }
     },
     {
@@ -729,7 +734,11 @@
       "foreground": "666666"
     },
     {
-      "token": "keyword.operator.relational.ts",
+      "token": "keyword.operator.relational",
+      "foreground": "666666"
+    },
+    {
+      "token": "keyword.operator.assignment",
       "foreground": "666666"
     },
     {
@@ -750,6 +759,10 @@
     },
     {
       "token": "meta.type.annotation",
+      "foreground": "666666"
+    },
+    {
+      "token": "meta.embedded.block.github-actions-expression",
       "foreground": "666666"
     },
     {
@@ -837,6 +850,10 @@
       "foreground": "cb7676"
     },
     {
+      "token": "text.html.derivative",
+      "foreground": "dbd7caee"
+    },
+    {
       "token": "storage.modifier.package",
       "foreground": "dbd7caee"
     },
@@ -910,11 +927,11 @@
     },
     {
       "token": "support.type.primitive",
-      "foreground": "5da9a7"
+      "foreground": "5DA994"
     },
     {
       "token": "entity.name.type",
-      "foreground": "5da9a7"
+      "foreground": "5DA994"
     },
     {
       "token": "namespace",
@@ -922,6 +939,10 @@
     },
     {
       "token": "keyword.operator",
+      "foreground": "cb7676"
+    },
+    {
+      "token": "keyword.operator.assignment.compound",
       "foreground": "cb7676"
     },
     {
@@ -1026,7 +1047,7 @@
     },
     {
       "token": "markup.quote",
-      "foreground": "5DA994"
+      "foreground": "5d99a9"
     },
     {
       "token": "markup.italic",
@@ -1145,8 +1166,12 @@
       "foreground": "dedcd590"
     },
     {
+      "token": "markup.underline.link.image.markdown",
+      "foreground": "dedcd590"
+    },
+    {
       "token": "type.identifier",
-      "foreground": "6893BF"
+      "foreground": "7f8ac7"
     },
     {
       "token": "entity.other.attribute-name.html.vue",
