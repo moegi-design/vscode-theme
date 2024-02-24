@@ -164,8 +164,8 @@
     "statusBarItem.warningBackground": "#d8b544",
     "statusBarItem.warningForeground": "#180f07",
     // Title bar colors
-    "titleBar.activeBackground": "#faf3ed",
-    "titleBar.inactiveBackground": "#fff9f3",
+    "titleBar.activeBackground": "#fff9f3",
+    "titleBar.inactiveBackground": "#faf3ed",
     "titleBar.border": "#180f071a",
     // Menu bar colors
     "menu.foreground": "#584f47",
